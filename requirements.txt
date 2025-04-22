@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langgraph
+langsmith
+streamlit
+matplotlib
+pandas
+requests
+python-dotenv
+pydantic
+reportlab
+pdfkit
