@@ -1,0 +1,299 @@
+{
+  "industry": "Consumer Defensive",
+  "time_period": "7 days",
+  "companies": {
+    "KO": {
+      "name": "The Coca-Cola Company",
+      "financial_metrics": {
+        "market_cap": "296822440000",
+        "pe_ratio": "27.69",
+        "quarterly_earnings_growth": "0.045",
+        "quarterly_revenue_growth": "-0.015"
+      },
+      "news_sentiment": {
+        "avg_sentiment": 0.14482342,
+        "sentiment_label": "Positive",
+        "news_count": 50
+      },
+      "recent_events": [
+        {
+          "title": "Warren Buffett Shows How Patience Pays: 98% Of His $160 Billion Wealth Came After Turning 65, Thanks The Power Of 'Compound Interest' - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",
+          "sentiment": 0
+        },
+        {
+          "title": "Meet Wall Street's Most Prolific Stock-Split Stock Throughout History -- a Company Whose Shares Have Gained Nearly 337,000% in 52 Years",
+          "sentiment": 0
+        },
+        {
+          "title": "The Smartest Dividend Stocks to Buy With $5,000 Right Now",
+          "sentiment": 0
+        },
+        {
+          "title": "3 Monster Stocks -- Including Berkshire Hathaway and Constellation Brands -- to Hold for the Next 10 Years and Beyond",
+          "sentiment": 0
+        },
+        {
+          "title": "Dell vs. Microsoft: Which Cloud Stock Is the Better Buy Now?",
+          "sentiment": 0
+        },
+        {
+          "title": "Screening for Buffett Stocks",
+          "sentiment": 0
+        },
+        {
+          "title": "3 Beaten-Down Dividend Stocks With Yields Over 5% to Buy in May for Passive Income",
+          "sentiment": 0
+        },
+        {
+          "title": "Coca-Cola Stock Slips Below 50-Day SMA: Time to Buy or Exit?",
+          "sentiment": 0
+        },
+        {
+          "title": "These 4 Warren Buffett Stocks Make Up Over 57% of Berkshire Hathaway's $277 Billion Portfolio",
+          "sentiment": 0
+        },
+        {
+          "title": "The Best Russell 2000 ETF to Invest $500 In Right Now",
+          "sentiment": 0
+        },
+        {
+          "title": "Canela Media Doubles Down on Innovation with Game-Changing Audience Engagement and Data Solutions as the Company Scales in 2025",
+          "sentiment": 0
+        },
+        {
+          "title": "Ethereum flips Coca-Cola and Alibaba as ETH gains 42% in 5 days",
+          "sentiment": 0
+        },
+        {
+          "title": "Prediction: Warren Buffett May Be Shifting Out of His Berkshire Hathaway CEO Role, but He's Not Done Investing",
+          "sentiment": 0
+        },
+        {
+          "title": "5 Investing Lessons From Warren Buffett",
+          "sentiment": 0
+        },
+        {
+          "title": "Should You Buy Berkshire Hathaway B Shares While They Are Below $550?",
+          "sentiment": 0
+        },
+        {
+          "title": "1 Warren Buffett Stock to Buy Hand Over Fist and 1 to Avoid",
+          "sentiment": 0
+        },
+        {
+          "title": "Is Following Buffett's Lead With Staples Like Coca-Cola the Secret to a Recession-Proof Portfolio?",
+          "sentiment": 0
+        },
+        {
+          "title": "Got $3,000? 2 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",
+          "sentiment": 0
+        },
+        {
+          "title": "Berkshire Hathaway Never Paid Dividends Under Warren Buffett. Here's Why That Could Change With Greg Abel as CEO",
+          "sentiment": 0
+        },
+        {
+          "title": "3 Top Warren Buffett Stocks to Buy Right Now",
+          "sentiment": 0
+        },
+        {
+          "title": "Monster Beverage Q1 Earnings Beat, Lower Sales Across Segments Hurt",
+          "sentiment": 0
+        },
+        {
+          "title": "AB InBev Q1 Earnings Beat on Brand Momentum, Revenues Fall Short",
+          "sentiment": 0
+        },
+        {
+          "title": "Pizza and Cola: Are These Buffett Dividend Favorites the Key to a Recession-Proof Portfolio?",
+          "sentiment": 0
+        },
+        {
+          "title": "Best Stock to Buy Right Now: Coca-Cola vs. Kraft Heinz",
+          "sentiment": 0
+        },
+        {
+          "title": "Warren Buffett Grew Berkshire Into a $1 Trillion Company. Can Greg Abel Take It to $2 Trillion?",
+          "sentiment": 0
+        },
+        {
+          "title": "Should You Forget Constellation Brands? Why These Unstoppable Stocks Are Better Buys",
+          "sentiment": 0
+        },
+        {
+          "title": "With Warren Buffett Stepping Down as CEO of Berkshire Hathaway, Could Coca-Cola and American Express Be on the Chopping Block?",
+          "sentiment": 0
+        },
+        {
+          "title": "Monster's CEO: 'We Don't Always Win' On Hedging-As Aluminum Tariffs Bite Into Q2 Margins - Alcoa  ( NYSE:AA ) , Coca-Cola  ( NYSE:KO ) ",
+          "sentiment": 0
+        },
+        {
+          "title": "Why Warren Buffett's Upcoming Move Isn't Cause for Concern",
+          "sentiment": 0
+        },
+        {
+          "title": "Prediction: Owning Berkshire Hathaway Stock Will Not Be the Same After Warren Buffett Steps Down",
+          "sentiment": 0
+        },
+        {
+          "title": "Agnico Eagle Mines and Helen of Troy have been highlighted as Zacks Bull and Bear of the Day",
+          "sentiment": 0
+        },
+        {
+          "title": "Warren Buffett Isn't Seeing Enough Opportunities in the Stock Market. Should Investors Be Concerned?",
+          "sentiment": 0
+        },
+        {
+          "title": "Warren Buffett's Retirement: What Comes Next for Berkshire Hathaway?",
+          "sentiment": 0
+        },
+        {
+          "title": "PepsiCo Stock Slumps to 52-Week Low: Buy the Dip or Stay Away?",
+          "sentiment": 0
+        },
+        {
+          "title": "Is Coca-Cola HBC  ( CCHGY )  Stock Outpacing Its Consumer Staples Peers This Year?",
+          "sentiment": 0
+        },
+        {
+          "title": "CocaCola Company  ( The )   ( KO )  is Attracting Investor Attention: Here is What You Should Know",
+          "sentiment": 0
+        },
+        {
+          "title": "Warren Buffett Falls Behind Nancy Pelosi In Stock Market Returns Over The Last 11 Years: Here's What Data Shows - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+          "sentiment": 0
+        },
+        {
+          "title": "The Old Port of Montr\u00e9al - Livelier, More Adventurous and More Festive Than Ever!",
+          "sentiment": 0
+        },
+        {
+          "title": "2 Warren Buffett Stocks to Buy Hand Over Fist in May",
+          "sentiment": 0
+        },
+        {
+          "title": "Berkshire Hathaway's Operating Earnings Fell: Is the Value Stock a Buy at an All-Time High?",
+          "sentiment": 0
+        },
+        {
+          "title": "3 Big Stock Splits Are Right Around the Corner -- and 2 of the 3 Stocks Are Great Picks During Uncertain Markets",
+          "sentiment": 0
+        },
+        {
+          "title": "Congressional Trading Report: Rep. Lloyd Doggett Bought Over $1K In Coca-Cola Stock - Coca-Cola  ( NYSE:KO ) , Home Depot  ( NYSE:HD ) ",
+          "sentiment": 0
+        },
+        {
+          "title": "BRITTO celebrates its 14th store opening by unveiling new location at Dolphin Mall this weekend",
+          "sentiment": 0
+        },
+        {
+          "title": "Hispanic shoppers are spending less on groceries, putting pressure on consumer companies",
+          "sentiment": 0
+        },
+        {
+          "title": "J & J Snack Foods Reports Fiscal 2025 Second Quarter Results",
+          "sentiment": 0
+        },
+        {
+          "title": "My 3 Favorite Stocks to Buy Right Now",
+          "sentiment": 0
+        },
+        {
+          "title": "Here's How to Invest in ETFs With Warren Buffett's Strategies",
+          "sentiment": 0
+        },
+        {
+          "title": "3 Stocks Warren Buffett First Bought 24 Years Ago  ( Hint: Apple's Not One Of Them ) ' - Coca-Cola  ( NYSE:KO ) , Moodys  ( NYSE:MCO ) , American Express  ( NYSE:AXP ) ",
+          "sentiment": 0
+        },
+        {
+          "title": "Take the Zacks Approach to Beat the Markets: ADMA Biologics, Limbach, Quest Diagnostics in Focus",
+          "sentiment": 0
+        },
+        {
+          "title": "Top Wide-Moat Stocks to Invest in for Long-Term Growth",
+          "sentiment": 0
+        }
+      ]
+    }
+  },
+  "industry_overview": {
+    "companies": [
+      {
+        "symbol": "WMT",
+        "name": "Walmart Inc.",
+        "market_cap": 767125333200,
+        "beta": 0.699,
+        "price": 95.88
+      },
+      {
+        "symbol": "COST",
+        "name": "Costco Wholesale Corporation",
+        "market_cap": 443252627490,
+        "beta": 0.99,
+        "price": 999.03
+      },
+      {
+        "symbol": "PG",
+        "name": "The Procter & Gamble Company",
+        "market_cap": 372148834200,
+        "beta": 0.411,
+        "price": 158.73
+      },
+      {
+        "symbol": "KO",
+        "name": "The Coca-Cola Company",
+        "market_cap": 296822459200,
+        "beta": 0.474,
+        "price": 68.96
+      },
+      {
+        "symbol": "PM",
+        "name": "Philip Morris International Inc.",
+        "market_cap": 254989106400,
+        "beta": 0.523,
+        "price": 163.82
+      },
+      {
+        "symbol": "DEO",
+        "name": "Diageo plc",
+        "market_cap": 62373842104,
+        "beta": 0.286,
+        "price": 112.27
+      },
+      {
+        "symbol": "OR.PA",
+        "name": "L'Or\u00e9al S.A.",
+        "market_cap": 202051217250,
+        "beta": 0.866,
+        "price": 378.15
+      },
+      {
+        "symbol": "PEP",
+        "name": "PepsiCo, Inc.",
+        "market_cap": 178665434800,
+        "beta": 0.481,
+        "price": 130.31
+      },
+      {
+        "symbol": "FMX",
+        "name": "Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V.",
+        "market_cap": 17699449986,
+        "beta": 0.3,
+        "price": 102.03
+      },
+      {
+        "symbol": "UL",
+        "name": "Unilever PLC",
+        "market_cap": 151678287838,
+        "beta": 0.233,
+        "price": 60.77
+      }
+    ],
+    "avg_market_cap": 274680659246.8,
+    "avg_beta": 0.5263,
+    "company_count": 10
+  }
+}

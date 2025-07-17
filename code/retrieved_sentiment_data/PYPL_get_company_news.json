@@ -1,0 +1,149 @@
+{
+  "articles": {
+    "results": [
+      {
+        "uri": "8672383531",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "11:42:15",
+        "dateTime": "2025-05-10T11:42:15Z",
+        "dateTimePub": "2025-05-10T11:41:48Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://finance.yahoo.com/news/paypal-deep-value-stock-value-101500648.html?guccounter=1&guce_referrer=aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9yc3MvdG9wc3Rvcmllcw&guce_referrer_sig=AQAAAGsC3Q9X13t3zXUVIz1-1ibtK_A7ms8TaIYIL52-a677OrOdguH0UauZkihRDz5BFrYKJxdAYkmGI4pblR2Rr2IK5h7B2VxzXCmdFSJNnbkzYFuNHKj62dwCZDw8o7Zl8xFkFS8UZQDQoFG0W099H4fDBAfZvBWCFCjj11baD3Ve",
+        "title": "Is PayPal a Deep Value Stock or a Value Trap to Avoid?",
+        "body": "PayPal Holdings (NASDAQ: PYPL) stock has taken investors on a roller-coaster ride over the past few years. After a steep decline from its pandemic-era highs, the stock has oscillated between $50 and $90 per share. Today, the stock is priced near its lowest valuation since going public, showing how investor sentiment toward the fintech has soured in recent years.\n\nUnder CEO Alex Chriss, who stepped into the top role in 2023, PayPal is working on improving its profit margins and reigniting its growth trajectory. If PayPal's bargain price tempts you, here are a few key things to consider.\n\nPayPal has experienced a notable slowdown in growth. While it once enjoyed rapid revenue and earnings increases, especially during the pandemic when digital payments boomed, the pace has since tapered off.\n\nPayPal faces stiff competition from several big players in the digital payment space. Alternatives like Apple Pay, Google Pay, Shopify Payments, Zelle, and Block's Cash App are all vying for consumers' attention, alongside traditional credit and debit payment methods.\n\nOne key area of concern is PayPal's decline in its take rate, which is the percentage of transaction value that the company retains as revenue. As competition in the payment space heats up, PayPal's take rate has slowly declined year after year.\n\nLast year was expected to be a transformational one for PayPal, with investors hoping the company would regain its footing and chart a promising course for the future. Unfortunately, the outlook hasn't been as bright as expected.\n\nThe stock price took a hit in February after PayPal released its full-year results for 2024. Among investors' concerns was slow growth in unbranded transactions, prompting fears that the company's aggressive push for profitability and improved margins might stunt its transaction growth instead.\n\nGiven the unknown impact of tariffs on consumer spending and the broader economy, PayPal also offered more conservative earnings guidance for the year, even after strong first-quarter results.\n\nPayPal's stock has become significantly more affordable over time. However, as noted above, some of this price drop is due to a slowdown in growth and pressure on the company's take rate. That said, the stock is trading at an attractive price point. In fact, it's one of the cheapest valuations on several measures since it spun off from eBay in 2015.",
+        "source": {
+          "uri": "finance.yahoo.com",
+          "dataType": "news",
+          "title": "Yahoo! Finance"
+        },
+        "authors": [],
+        "image": "https://media.zenfs.com/en/motleyfool.com/313d995f01856d62ae01c3f18d951984",
+        "eventUri": null,
+        "sentiment": 0.2705882352941176,
+        "wgt": 484573335,
+        "relevance": 1
+      },
+      {
+        "uri": "8671330926",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-09",
+        "time": "15:20:05",
+        "dateTime": "2025-05-09T15:20:05Z",
+        "dateTimePub": "2025-05-09T15:04:16Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://winbuzzer.com/2025/05/09/python-usage-hits-record-heights-with-a-25-35-share-on-the-tiobe-index-xcxwbn/",
+        "title": "Python Usage Hits Record Heights with a 25.35% Share on the TIOBE Index - WinBuzzer",
+        "body": "Python's ascent in the programming world has reached a new zenith, capturing an unprecedented 25.35% share in the May 2025 TIOBE Index, marking its highest rating ever and establishing the largest lead any language has held in the index's history.\n\nThis surge, an increase of approximately 2.2 percentage points from its April 2025 rating of 23.08%, and a significant +9.02% increase compared to May 2024, places Python more than 15 percentage points ahead of its closest competitor, C++.\n\nThis milestone is particularly significant when considering the evolution of the TIOBE Index itself. While Java briefly touched a higher percentage in 2001, TIOBE CEO Paul Jansen, in the May 2025 report, emphasized that Python's current achievement is more noteworthy because the index now tracks 282 languages, compared to just 20 in 2001.\n\n\"Hence, it was easier to get such a high score in 2001,\" he noted. The TIOBE Index's definition clarifies it serves as an indicator of programming language popularity, drawing on data from skilled engineers, educational courses, third-party vendors, and search engine trends, rather than being a measure of the \"best\" language or total lines of code written. \"It is important to note that the TIOBE index is not about the best programming language or the language in which most lines of code have been written.\"\n\nPython's remarkable growth isn't a new phenomenon. It was named TIOBE's Programming Language of the Year for 2024, after a significant ratings jump. This continued momentum is widely attributed to its simplicity, extensive libraries, and its pivotal role in the rapidly expanding fields of artificial intelligence and data science. The PYPL Popularity of Programming Language Index, which analyzes Google search frequency for language tutorials, also consistently places Python at the top with a current usage share of 30.41%.\n\nThe language's dominance in AI and machine learning is a key driver. Arnal Dayaratna, an analyst at IDC, previously highlighted that Python, with frameworks like TensorFlow and PyTorch and libraries such as Hugging Face's Transformers, leads the generative AI developer ecosystem.\n\nThis sentiment is echoed by Zestminds, which points to Python's extensive libraries and readable code structure as critical for its AI supremacy. Microsoft CEO Satya Nadella even stated in April that AI is generating a significant portion of Microsoft's code, with Python showing more promise in this area than C++.\n\nBeyond AI, Python's versatility is showcased by its integration into widely used tools. Microsoft's introduction of Python into Excel, first previewed in August 2023, and later enhanced with a dedicated Python Editor and local execution capabilities via Anaconda's Toolbox, has significantly broadened its accessibility to data analysts and business users. OpenAI has also embedded Python execution into its ChatGPT Canvas tool, further democratizing its use.\n\nDespite its widespread adoption, Python's known drawbacks, primarily its lower performance compared to compiled languages and its interpreted nature which can lead to unexpected runtime errors, are consistently acknowledged. TIOBE CEO Paul Jansen has repeatedly pointed this out, stating, \"The only reason other languages still have a reason for existing is because of Python's low performance, and the fact that it is interpreted and thus prone to unexpected run-time errors.\"\n\nThis means that for safety-critical or real-time systems, languages like C or C++ often remain the go-to choices. In February Jansen also noted that while Python leads, faster languages such as C++, Go, and Rust are gaining traction due to the increasing demand for computational speed.\n\nThis performance consideration is a key reason why other languages maintain their relevance. However, as Jansen also observed, \"This means that safety-critical and/or real-time systems still have to rely on other languages, but in most other domains Python is slowly but surely finding its way to the top.\"\n\nThe language's ease of learning and a vast, active community, as detailed in our overview of Python's strengths and weaknesses, contribute significantly to its sustained growth, making it a primary choice for new developers and a staple in enterprise environments, a trend also reflected in its high demand among recruiters, according to Statista data cited by DEV Community.\n\nWhile Python solidifies its top position, the rest of the TIOBE top 10 for May 2025 includes C++ (9.94%), C (9.71%), Java (9.31%), and C# (4.22%). The GitHub Octoverse 2024 report had previously indicated Python overtaking JavaScript as the most used language on its platform, largely fueled by the AI boom.\n\nThe development of AI-powered coding assistants, like Google's Gemini Code Assist Enterprise and Mistral AI's Codestral-22B, which support Python among many other languages, further illustrates the symbiotic relationship between Python's growth and the AI revolution. Even specialized tools like OpenAI's Codex CLI and Pydantic's sandboxed Python execution server for AI agents are emerging, underscoring the language's integral role in the evolving AI landscape.",
+        "source": {
+          "uri": "winbuzzer.com",
+          "dataType": "news",
+          "title": "WinBuzzer"
+        },
+        "authors": [
+          {
+            "uri": "markus_kasanmascheff@winbuzzer.com",
+            "name": "Markus Kasanmascheff",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "image": "https://winbuzzer.com/wp-content/uploads/2024/01/Python-advantages-disadvantages.png",
+        "eventUri": null,
+        "sentiment": 0.2941176470588236,
+        "wgt": 484500005,
+        "relevance": 1
+      },
+      {
+        "uri": "8671286569",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-09",
+        "time": "14:47:21",
+        "dateTime": "2025-05-09T14:47:21Z",
+        "dateTimePub": "2025-05-09T14:43:57Z",
+        "dataType": "news",
+        "sim": 0.7607843279838562,
+        "url": "https://cryptocurrencynews.com/market-news/meta-stablecoin-payments-may-simplify-global-payouts/",
+        "title": "Meta Stablecoin Payments May Simplify Global Payouts",
+        "body": "Meta Platforms Inc. (NASDAQ:META) appears ready to re-enter the crypto space with a fresh angle -- Meta stablecoin payments targeted at microtransactions and global payouts for content creators. According to a recent Fortune report citing five anonymous sources, the tech giant is exploring stablecoins as a means to reduce transaction friction, particularly for influencers on platforms like Instagram.\n\nThis would mark the first notable crypto development at Meta since the failure of its high-profile Libra project. However, this new strategy appears significantly more modest in scope and aims to address practical payment challenges rather than overhaul global finance.\n\nThe pivot to Meta stablecoin payments signals a potential course correction following the collapse of Libra -- later renamed Diem. Libra aimed to launch a multi-currency-backed stablecoin and was backed by heavyweights like PayPal (NASDAQ:PYPL), Visa (NYSE:V), eBay (NASDAQ:EBAY), and Mastercard (NYSE:MA). Regulatory pressure, particularly during the Biden administration's early crypto-skeptic phase, forced the project's shutdown. In 2022, Meta sold the remains of Diem to Silvergate Bank.\n\nNow, instead of taking on the global monetary system, Meta is reportedly focused on streamlining small payouts to creators across borders -- one of the most practical use cases for digital currencies. Stablecoins can provide near-instant, low-cost settlement, avoiding high conversion fees and slow bank transfers, especially in emerging markets.\n\nThe timing of Meta's renewed crypto interest aligns with growing institutional adoption of stablecoins. Payment giants like Visa and Mastercard have already begun experimenting with stablecoin integration into their networks. Visa, for instance, has conducted USDC-based settlement pilots on Ethereum (ETH), indicating growing confidence in stablecoin infrastructure.\n\nLast month, Citigroup (NYSE:C) released a report projecting the global stablecoin market cap could grow to $3.7 trillion under bullish conditions. The forecast was tied to positive regulatory trends and increased institutional trust in blockchain-based payment rails.\n\nFor Meta, joining this wave with a utility-driven focus -- like stablecoin payments for Instagram influencers -- may offer a realistic path to rebuilding its crypto credibility while sidestepping the scrutiny that tanked Libra.\n\nLeading Meta's exploration of this new initiative is Ginger Baker, the company's VP of product who joined earlier this year. Baker brings significant experience in fintech and crypto, and her involvement suggests the company is taking a cautious but informed approach to its payment evolution.\n\nThe reported discussions with infrastructure providers remain preliminary. No specific blockchain network or service partner has been named yet, though sources say the conversations focus on small-payout use cases -- likely involving USD-pegged stablecoins such as USDC or USDT.\n\nWhile no formal announcement has been made, the tone within Meta seems pragmatic. CEO Mark Zuckerberg recently called the Libra project \"dead\" during a public discussion with Stripe's co-founder John Collison, distancing the new plans from the failed experiment.\n\nThe idea of Meta stablecoin payments represents a shift from ambition to application. Rather than reinventing money, Meta may simply want to make it easier to pay creators in Nigeria, India, Brazil, or Indonesia without navigating slow, expensive fiat rails.\n\nIf executed correctly, this could not only reintroduce Meta to the crypto world in a friendlier light, but also improve user retention on its creator platforms by offering faster, borderless compensation.\n\nWhether Meta eventually scales this solution beyond creator payouts remains to be seen. For now, the strategy appears to be: stay useful, stay quiet, and avoid the mistakes of the past.",
+        "source": {
+          "uri": "cryptocurrencynews.com",
+          "dataType": "news",
+          "title": "Crypto Currency News"
+        },
+        "authors": [],
+        "image": "https://cryptocurrencynews.com/wp-content/uploads/2024/04/Stablecoins.jpg",
+        "eventUri": "eng-10595111",
+        "sentiment": -0.01960784313725494,
+        "wgt": 484498041,
+        "relevance": 1
+      },
+      {
+        "uri": "8670985800",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-09",
+        "time": "11:13:18",
+        "dateTime": "2025-05-09T11:13:18Z",
+        "dateTimePub": "2025-05-09T11:01:12Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.tradingview.com/chart/SPX/24c6p5xn-The-Illusion-of-Value-How-the-U-S-Market-Became-a-Fantasy-Econ/",
+        "title": "The Illusion of Value: How the U.S. Market Became a Fantasy Econ for SP:SPX by CassianDrake",
+        "body": "The Illusion of Value: How the U.S. Market Became a Fantasy Economy\n\nFor decades, the American economy has been celebrated as the epicenter of innovation, wealth creation, and corporate success. But beneath the surface, an unsettling reality has emerged: The U.S. financial markets are increasingly driven by speculation, hype, and a distorted sense of value.\n\n\"Buy Now, Pay Later\" -- A Culture of Delusion\n\nOne of the most glaring symptoms of this detachment from reality is the widespread adoption of \"Buy Now, Pay Later\" (BNPL) services. A staggering number of American consumers have embraced debt-financed spending as a normal part of life. Credit cards are no longer the primary vehicle for financial mismanagement -- BNPL systems have convinced people they can afford luxuries they fundamentally cannot.\n\nThis mentality, in turn, feeds into the stock market's obsession with future promises over actual output. Investors have become infatuated with narratives rather than numbers, driving valuations to unrealistic highs for companies that either underdeliver or simply do nothing at all.\n\nThe MicroStrategy Paradox: Borrowing Money to Buy Bitcoin\n\nTake MicroStrategy, for example -- a company whose sole business model seems to be leveraging borrowed capital to buy Bitcoin. By traditional metrics, MicroStrategy offers no tangible product, no innovative service, no groundbreaking technology -- just speculative accumulation. Yet, thanks to Bitcoin hype, its stock price is valued as if it's a revolutionary player in the corporate world.\n\nThis irrational valuation mirrors the broader issue with American markets: Companies are being rewarded not for what they actually do, but for the financial games they play.\n\nThe Myth of Overvalued Titans: Tesla & Meta\n\nTesla and Meta serve as the poster children of speculative overvaluation.\n\n- Tesla: Once hailed as an automotive disruptor, Tesla's stock price often reflects what Elon Musk promises rather than what Tesla delivers. From self-driving software that never fully materialized to mass production goals that fell flat, Tesla's ability to sustain its valuation relies more on Musk's cult-like following than automotive success. Meanwhile, the gutting of regulatory oversight has allowed Tesla to push unfinished, potentially hazardous products into the market.\n\n- Meta: Meta's valuation has ballooned largely on the promise of virtual reality dominance. Yet, billions poured into the Metaverse have yielded little beyond overpriced VR headsets and gimmicky social spaces.\n\nElon Musk: The Master of Market Manipulation\n\nElon Musk's influence on financial markets cannot be overstated. Through cryptic tweets, grand promises, and regulatory maneuvering, Musk has become a force powerful enough to shift markets with mere words. Whether it's pumping Dogecoin, slashing Tesla's safety oversight, or influencing government policy for personal gain, Musk operates in a reality where market value is dictated by his persona rather than corporate fundamentals.\n\nThe Rise of True Value Markets\n\nWhile the U.S. economy indulges in financial fantasy, other global markets have started to present compelling opportunities:\n\n- Europe: A more realistic, fundamentals-based approach to valuation is emerging. Traditional industries remain resilient, and companies must show actual profitability to attract investment.\n\n- China: Despite regulatory challenges, China's focus on industrial production, technological advancement, and infrastructure development gives its economy a sense of tangible progress.\n\n- UK & Australia: Unlike the speculative U.S. markets, these economies remain grounded in earnings, productivity, and rational valuations.\n\nConclusion\n\nThe American financial landscape has become a speculative playground detached from reality. Companies are valued not for what they produce, but for what they promise, what they borrow, and what narratives they spin. Figures like Musk exploit market sentiment, while deregulation enables corporations to operate recklessly. As Europe, China, the UK, and Australia foster economies built on real value, the U.S. is at risk of crashing under the weight of its illusions.\n\nSPX DXY BTCUSD GOLD MSTR TSLA BLK META DAX UKX HSI SQ PYPL AFRM AAPL AMZN NVDA COIN HOOD",
+        "source": {
+          "uri": "tradingview.com",
+          "dataType": "news",
+          "title": "TradingView"
+        },
+        "authors": [],
+        "image": "https://s3.tradingview.com/2/24c6p5xn_big.png",
+        "eventUri": null,
+        "sentiment": 0.1607843137254903,
+        "wgt": 484485198,
+        "relevance": 1
+      },
+      {
+        "uri": "8670976588",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-09",
+        "time": "11:09:11",
+        "dateTime": "2025-05-09T11:09:11Z",
+        "dateTimePub": "2025-05-09T10:15:00Z",
+        "dataType": "news",
+        "sim": 0.6509804129600525,
+        "url": "https://www.fool.com/investing/2025/05/09/is-paypal-a-deep-value-stock-or-a-value-trap-to/",
+        "title": "Is PayPal a Deep Value Stock or a Value Trap to Avoid? | The Motley Fool",
+        "body": "PayPal Holdings (PYPL 2.61%) stock has taken investors on a roller-coaster ride over the past few years. After a steep decline from its pandemic-era highs, the stock has oscillated between $50 and $90 per share. Today, the stock is priced near its lowest valuation since going public, showing how investor sentiment toward the fintech has soured in recent years.\n\nUnder CEO Alex Chriss, who stepped into the top role in 2023, PayPal is working on improving its profit margins and reigniting its growth trajectory. If PayPal's bargain price tempts you, here are a few key things to consider.\n\nPayPal has experienced a notable slowdown in growth. While it once enjoyed rapid revenue and earnings increases, especially during the pandemic when digital payments boomed, the pace has since tapered off.\n\nPayPal faces stiff competition from several big players in the digital payment space. Alternatives like Apple Pay, Google Pay, Shopify Payments, Zelle, and Block's Cash App are all vying for consumers' attention, alongside traditional credit and debit payment methods.\n\nOne key area of concern is PayPal's decline in its take rate, which is the percentage of transaction value that the company retains as revenue. As competition in the payment space heats up, PayPal's take rate has slowly declined year after year.\n\nLast year was expected to be a transformational one for PayPal, with investors hoping the company would regain its footing and chart a promising course for the future. Unfortunately, the outlook hasn't been as bright as expected.\n\nThe stock price took a hit in February after PayPal released its full-year results for 2024. Among investors' concerns was slow growth in unbranded transactions, prompting fears that the company's aggressive push for profitability and improved margins might stunt its transaction growth instead.\n\nGiven the unknown impact of tariffs on consumer spending and the broader economy, PayPal also offered more conservative earnings guidance for the year, even after strong first-quarter results.\n\nPayPal's stock has become significantly more affordable over time. However, as noted above, some of this price drop is due to a slowdown in growth and pressure on the company's take rate. That said, the stock is trading at an attractive price point. In fact, it's one of the cheapest valuations on several measures since it spun off from eBay in 2015.\n\nCEO Alex Chriss took the top role as PayPal's chief in September 2023. Chriss came over from Intuit, where he has experience developing the company's small and medium-sized business and played a key role in driving growth.\n\nUnder Chriss, PayPal is undertaking several initiatives, like PayPal Complete Payments, to encourage more usage of its branded products. These initiatives aim to boost profit margins and user engagement on PayPal's platform. The company is also leveraging its extensive customer data to help merchants create personalized experiences and encourage repeat purchases.\n\nLast week, the company announced that its ad business, PayPal Ads, would start selling programmatic ads to marketers. This will enable companies to make targeted ads on other publishers' websites, using data from PayPal to create custom advertisements and promos. PayPal sees programmatic ads as a way to enhance its platform, grow ad revenue, and compete with large social networks that dominate the space.\n\nAnother positive is that PayPal continues to benefit from a first-mover advantage in the payment space. According to a survey conducted by Motley Fool Money, 85% of all respondents use PayPal. The next-closest competitor is Block's Cash App, with 54% of respondents using the app.\n\nPayPal presents a compelling value opportunity for investors, even as its turnaround takes time. The company is working on boosting its margins, expanding its platform adoption, and integrating its services while building up its ad business.\n\nThe company believes its shares are undervalued, too. Earlier this year, the board approved a $15 billion stock buyback authorization, allowing it to reduce its outstanding share count and boost earnings per share.\n\nIt's been a challenging ride for investors in recent years. That said, I believe PayPal's stock is a buy at today's valuation and that investors willing to hold for the long haul (five years or more) could be handsomely rewarded for their patience.",
+        "source": {
+          "uri": "fool.com",
+          "dataType": "news",
+          "title": "The Motley Fool"
+        },
+        "authors": [
+          {
+            "uri": "courtney_carlsen@fool.com",
+            "name": "Courtney Carlsen",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "image": "https://g.foolcdn.com/editorial/images/817367/people-send-money-through-payment-app-getty.jpg",
+        "eventUri": "eng-10583231",
+        "sentiment": 0.2705882352941176,
+        "wgt": 484484951,
+        "relevance": 1
+      }
+    ],
+    "totalResults": 62,
+    "page": 1,
+    "count": 5,
+    "pages": 13
+  }
+}

@@ -1,0 +1,3321 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Warren Buffett Shows How Patience Pays: 98% Of His $160 Billion Wealth Came After Turning 65, Thanks The Power Of 'Compound Interest' - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",
+      "url": "https://www.benzinga.com/general/market-summary/25/05/45399940/warren-buffett-shows-how-patience-pays-98-of-his-160-billion-wealth-came-after-turning-65-",
+      "time_published": "20250514T081848",
+      "authors": [
+        "Rishabh Mishra"
+      ],
+      "summary": "According to the recent data shared by Creative Planning, Inc., the 'Oracle of Omaha,' Warren Buffett earned 98% of his current net worth after turning 65 years old. What Happened: The 94-year-old veteran investor Buffett has a net worth of $160 billion according to Bloomberg's Billionaire Index.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/05/14/Warren-Buffett-Is-A-Billionaire-Investor.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.977154"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.36304,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.205807",
+          "ticker_sentiment_score": "0.212934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.205807",
+          "ticker_sentiment_score": "0.212934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.205807",
+          "ticker_sentiment_score": "0.212934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.058934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLSQF",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.157973",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.205807",
+          "ticker_sentiment_score": "0.212934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.213271",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Meet Wall Street's Most Prolific Stock-Split Stock Throughout History -- a Company Whose Shares Have Gained Nearly 337,000% in 52 Years",
+      "url": "https://www.fool.com/investing/2025/05/14/meet-wall-st-prolific-stock-split-stock-up-337000/",
+      "time_published": "20250514T075100",
+      "authors": [
+        "Sean Williams"
+      ],
+      "summary": "This brand-name business has split its stock a staggering 14 times in less than 50 years.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817932%2Fpaper-certificate-shares-invest-stock-split-market-reverse-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.897321"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.257079,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "0.013825",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBKR",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "0.04302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "0.013825",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DG",
+          "relevance_score": "0.075516",
+          "ticker_sentiment_score": "0.041848",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.075516",
+          "ticker_sentiment_score": "0.064068",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.075516",
+          "ticker_sentiment_score": "0.041848",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORLY",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "0.04302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CCZ",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "-0.000979",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FAST",
+          "relevance_score": "0.0378",
+          "ticker_sentiment_score": "0.04302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HD",
+          "relevance_score": "0.075516",
+          "ticker_sentiment_score": "-0.039665",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LUV",
+          "relevance_score": "0.150357",
+          "ticker_sentiment_score": "0.20145",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.075516",
+          "ticker_sentiment_score": "0.041848",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Smartest Dividend Stocks to Buy With $5,000 Right Now",
+      "url": "https://www.fool.com/investing/2025/05/13/the-smartest-dividend-stocks-to-buy-with-5000-righ/",
+      "time_published": "20250514T014100",
+      "authors": [
+        "Royston Yang"
+      ],
+      "summary": "If you have some spare cash, it's a great idea to put it into some dividend-paying stocks. They're a useful source of passive income that can help supplement your earned income. And if this income stream becomes large enough over time, you can rely on it to enjoy a comfortable retirement.The best ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F818025%2Fcola-pouring-into-glass.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        }
+      ],
+      "overall_sentiment_score": 0.342226,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVUE",
+          "relevance_score": "0.038969",
+          "ticker_sentiment_score": "0.072138",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SYY",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.028502",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.19964",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.193001",
+          "ticker_sentiment_score": "0.074651",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Monster Stocks -- Including Berkshire Hathaway and Constellation Brands -- to Hold for the Next 10 Years and Beyond",
+      "url": "https://www.fool.com/investing/2025/05/13/3-monster-stocks-including-berkshire-hathaway-and/",
+      "time_published": "20250514T011000",
+      "authors": [
+        "Selena Maranjian"
+      ],
+      "summary": "One of them is in the \"Magnificent Seven.\" ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817573%2Fsoldier-veteran-service-member-smiling-military.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.241681,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "0.146447",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.051774",
+          "ticker_sentiment_score": "0.065596",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.254573",
+          "ticker_sentiment_score": "0.266301",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.051774",
+          "ticker_sentiment_score": "0.065596",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.051774",
+          "ticker_sentiment_score": "0.065596",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.204936",
+          "ticker_sentiment_score": "0.201826",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Dell vs. Microsoft: Which Cloud Stock Is the Better Buy Now?",
+      "url": "https://www.zacks.com/stock/news/2468798/dell-vs-microsoft-which-cloud-stock-is-the-better-buy-now",
+      "time_published": "20250513T170300",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "DELL and MSFT are well-known players in the cloud computing industry. Let's find out which one is a better investment option.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/08/103656.jpg?v=1040128711",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.206618,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.644033",
+          "ticker_sentiment_score": "0.291744",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ANF",
+          "relevance_score": "0.046006",
+          "ticker_sentiment_score": "-0.101166",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VMW",
+          "relevance_score": "0.046006",
+          "ticker_sentiment_score": "-0.101166",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.046006",
+          "ticker_sentiment_score": "-0.101166",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.546745",
+          "ticker_sentiment_score": "0.333616",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.046006",
+          "ticker_sentiment_score": "-0.101166",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Screening for Buffett Stocks",
+      "url": "https://www.zacks.com/stock/news/2468772/screening-for-buffett-stocks",
+      "time_published": "20250513T164800",
+      "authors": [
+        "Tracey Ryniec"
+      ],
+      "summary": "Tracey Ryniec, Zacks Value Stock Strategist, uses Zacks Research Wizard's Buffett screen to find value stocks.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ec/1250.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99793"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.195197,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.438836",
+          "ticker_sentiment_score": "0.316375",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.438836",
+          "ticker_sentiment_score": "0.163661",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.115509",
+          "ticker_sentiment_score": "0.035154",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DFH",
+          "relevance_score": "0.532402",
+          "ticker_sentiment_score": "0.15702",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Beaten-Down Dividend Stocks With Yields Over 5% to Buy in May for Passive Income",
+      "url": "https://www.fool.com/investing/2025/05/13/3-beaten-down-high-yield-dividend-stocks-buy-may/",
+      "time_published": "20250513T143100",
+      "authors": [
+        "and Lee Samaha",
+        "Daniel Foelber",
+        "Scott Levine"
+      ],
+      "summary": "Money doesn't grow on trees, but there are ways to collect passive income from doing nothing. Some companies pass along a portion of profits to shareholders through dividends, which can be an excellent way to book a return without selling stock.While the S&P 500 dividend yield is just 1.3%, some ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817749%2Fstacks-of-coins-next-to-a-plant-sprouting-from-a-glass-jar-full-of-coins.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.988915"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.125839,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UPS",
+          "relevance_score": "0.58604",
+          "ticker_sentiment_score": "0.03933",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "APA",
+          "relevance_score": "0.249288",
+          "ticker_sentiment_score": "0.192429",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RHI",
+          "relevance_score": "0.179521",
+          "ticker_sentiment_score": "0.110135",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.0362",
+          "ticker_sentiment_score": "-0.022744",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Coca-Cola Stock Slips Below 50-Day SMA: Time to Buy or Exit?",
+      "url": "https://www.zacks.com/stock/news/2468218/coca-cola-stock-slips-below-50-day-sma-time-to-buy-or-exit",
+      "time_published": "20250513T132800",
+      "authors": [
+        "Rajani Lohia"
+      ],
+      "summary": "KO faces near-term headwinds from inflation and tariff woes, but strong fundamentals, innovation, and global reach keep it well-poised for long-term growth.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e3/65.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.779048"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.996718"
+        }
+      ],
+      "overall_sentiment_score": 0.246456,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "-0.007499",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.616842",
+          "ticker_sentiment_score": "0.236488",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KDP",
+          "relevance_score": "0.069495",
+          "ticker_sentiment_score": "0.020306",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.104078",
+          "ticker_sentiment_score": "-0.006588",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "These 4 Warren Buffett Stocks Make Up Over 57% of Berkshire Hathaway's $277 Billion Portfolio",
+      "url": "https://www.fool.com/investing/2025/05/13/these-4-warren-buffett-stocks-make-up-over-57-of/",
+      "time_published": "20250513T131500",
+      "authors": [
+        "Justin Pope"
+      ],
+      "summary": "The Oracle of Omaha's legacy boils down to a simplified approach that anyone can use.",
+      "banner_image": "https://media.ycharts.com/charts/9fe2faf3d5d4bb3a1d2d47321d643bb6.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998356"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.291313,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.197816",
+          "ticker_sentiment_score": "0.056589",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.292922",
+          "ticker_sentiment_score": "0.34788",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.38366",
+          "ticker_sentiment_score": "0.443698",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.338913",
+          "ticker_sentiment_score": "0.049271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.049939",
+          "ticker_sentiment_score": "0.242341",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Best Russell 2000 ETF to Invest $500 In Right Now",
+      "url": "https://www.fool.com/investing/2025/05/13/the-best-russell-2000-etf-to-invest-500-in-now/",
+      "time_published": "20250513T081500",
+      "authors": [
+        "Adria Cimino"
+      ],
+      "summary": "When we think of investing, some of the world's biggest names might pop into our minds -- from Amazon, to Nvidia or Coca-Cola. You'll find these large capitalization players in major indexes such as the S&P 500 ( SNPINDEX: ^GSPC ) or the Dow Jones Industrial Average ( DJINDICES: ^DJI ) .",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F818001%2Fgettyimages-1135625573.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999974"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.275073,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.061159",
+          "ticker_sentiment_score": "0.092006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SFM",
+          "relevance_score": "0.061159",
+          "ticker_sentiment_score": "0.112013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.061159",
+          "ticker_sentiment_score": "0.092006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HIMS",
+          "relevance_score": "0.061159",
+          "ticker_sentiment_score": "0.112013",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Canela Media Doubles Down on Innovation with Game-Changing Audience Engagement and Data Solutions as the Company Scales in 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/05/n45353679/canela-media-doubles-down-on-innovation-with-game-changing-audience-engagement-and-data-solutions-",
+      "time_published": "20250512T160000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "Company unveils Club Canela, the first-of-its-kind AVOD viewer loyalty program, and continues to evolve its best-in-class audience and data product Canela Audience Solutions",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.49093,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.026213",
+          "ticker_sentiment_score": "0.386733",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.026213",
+          "ticker_sentiment_score": "0.386733",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HYMLF",
+          "relevance_score": "0.078525",
+          "ticker_sentiment_score": "0.275038",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ethereum flips Coca-Cola and Alibaba as ETH gains 42% in 5 days",
+      "url": "https://cointelegraph.com/news/ether-market-cap-surges-past-coca-cola-alibaba-pectra-upgrade",
+      "time_published": "20250512T091648",
+      "authors": [
+        "Ezra Reguerra"
+      ],
+      "summary": "Ether's market capitalization surged 42% in five days following the successful launch of Ethereum's Pectra upgrade on its mainnet. On May 12, the company data tracker 8marketcap showed Ether ( ETH ) surpassing Coca-Cola and Alibaba, ranking as the world's 39th-largest asset by market ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-05/0196c3ac-303e-778d-9230-6683f25b7f8c",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.022018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.192694",
+          "ticker_sentiment_score": "0.144292",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.192694",
+          "ticker_sentiment_score": "0.144292",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.727604",
+          "ticker_sentiment_score": "0.407543",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: Warren Buffett May Be Shifting Out of His Berkshire Hathaway CEO Role, but He's Not Done Investing",
+      "url": "https://www.fool.com/investing/2025/05/11/prediction-warren-buffett-is-not-done-investing/",
+      "time_published": "20250511T191000",
+      "authors": [
+        "Adria Cimino"
+      ],
+      "summary": "Warren Buffett gave investors big news last weekend. During the Berkshire Hathaway shareholder meeting, the billionaire investor said he would step down from his chief executive officer role at the end of the year after 60 years at the helm.Buffett will remain chairman, but he aims to turn over ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817779%2Fbuffett11-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.216065,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.047749",
+          "ticker_sentiment_score": "0.126382",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.047749",
+          "ticker_sentiment_score": "0.124766",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.142565",
+          "ticker_sentiment_score": "0.109196",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 Investing Lessons From Warren Buffett",
+      "url": "https://www.fool.com/investing/2025/05/11/5-investing-lessons-from-warren-buffett/",
+      "time_published": "20250511T134500",
+      "authors": [
+        "David Butler"
+      ],
+      "summary": "I won't lie. It was an emotional experience to hear that Warren Buffett plans to step down as CEO of Berkshire Hathaway. It truly marks the end of an era.The man has been rocking the stock market for decades. According to a piece by CNN, Buffett created returns of 5,500,000% during his investment ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817588%2Fwarren-buffett-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999822"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.199156,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NYT",
+          "relevance_score": "0.062434",
+          "ticker_sentiment_score": "0.003029",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.062434",
+          "ticker_sentiment_score": "0.094026",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.062434",
+          "ticker_sentiment_score": "-0.069012",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.062434",
+          "ticker_sentiment_score": "0.21223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.124486",
+          "ticker_sentiment_score": "0.156807",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should You Buy Berkshire Hathaway B Shares While They Are Below $550?",
+      "url": "https://www.fool.com/investing/2025/05/11/should-you-buy-berkshire-hathaway-b-shares-while-t/",
+      "time_published": "20250511T093000",
+      "authors": [
+        "Collin Brantmeyer"
+      ],
+      "summary": "The recent slide in Berkshire Hathaway stock may be a buying opportunity.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F813202%2Fbuffett12-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998356"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.2285,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOG",
+          "relevance_score": "0.047559",
+          "ticker_sentiment_score": "0.149934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.09495",
+          "ticker_sentiment_score": "0.107771",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.047559",
+          "ticker_sentiment_score": "0.149934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.047559",
+          "ticker_sentiment_score": "0.103606",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.234458",
+          "ticker_sentiment_score": "0.201394",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.047559",
+          "ticker_sentiment_score": "0.103606",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.047559",
+          "ticker_sentiment_score": "0.149934",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "1 Warren Buffett Stock to Buy Hand Over Fist and 1 to Avoid",
+      "url": "https://www.fool.com/investing/2025/05/11/warren-buffett-stock-buy-hand-over-fist-avoid/",
+      "time_published": "20250511T075500",
+      "authors": [
+        "Bram Berkowitz"
+      ],
+      "summary": "Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) CEO and Chairman Warren Buffett needs no introduction. Buffett has been generating market-beating returns for Berkshire's shareholders for about six decades now. Sadly, at the end of the year, Buffett, who is 94 years old, will step down as ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817636%2Fbuffett6-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.05511,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.330496",
+          "ticker_sentiment_score": "0.196661",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.048621",
+          "ticker_sentiment_score": "0.060697",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.048621",
+          "ticker_sentiment_score": "0.060697",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.097062",
+          "ticker_sentiment_score": "0.025663",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OPTGF",
+          "relevance_score": "0.048621",
+          "ticker_sentiment_score": "0.082136",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.048621",
+          "ticker_sentiment_score": "-0.064788",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Following Buffett's Lead With Staples Like Coca-Cola the Secret to a Recession-Proof Portfolio?",
+      "url": "https://www.fool.com/investing/2025/05/11/is-following-buffetts-lead-with-staples-like-coca/",
+      "time_published": "20250511T074600",
+      "authors": [
+        "Will Healy"
+      ],
+      "summary": "Investors often look for ways to make their stock portfolios more immune to recessions. To do that, they might study the investment philosophy of Warren Buffett.While Berkshire Hathaway's ( NYSE: BRK.A ) ( NYSE: BRK.B ) recession strategy may focus on the company's approximately $348 billion in ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817525%2Fko.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.053159,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.829373",
+          "ticker_sentiment_score": "0.041305",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.05749",
+          "ticker_sentiment_score": "0.066952",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Got $3,000? 2 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",
+      "url": "https://www.fool.com/investing/2025/05/10/got-3000-ai-stocks-buy-hold-long-term/",
+      "time_published": "20250510T231500",
+      "authors": [
+        "John Ballard"
+      ],
+      "summary": "The technology sector has produced some of the biggest winners in the stock market in recent decades, and artificial intelligence ( AI ) promises big rewards for investors who hold the right stocks.If you have $3,000 to invest right now, the following companies are competitively positioned to ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817221%2Fartificial-intelligence-chip-bull-market.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.977154"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999346"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.301808,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.408672",
+          "ticker_sentiment_score": "0.272369",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ANF",
+          "relevance_score": "0.053509",
+          "ticker_sentiment_score": "0.058942",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.361501",
+          "ticker_sentiment_score": "0.37766",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.053509",
+          "ticker_sentiment_score": "0.058942",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.053509",
+          "ticker_sentiment_score": "0.058942",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway Never Paid Dividends Under Warren Buffett. Here's Why That Could Change With Greg Abel as CEO",
+      "url": "https://www.fool.com/investing/2025/05/10/berkshire-dividend-warren-buffett-greg-abel/",
+      "time_published": "20250510T181400",
+      "authors": [
+        "Daniel Foelber"
+      ],
+      "summary": "Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) is the quintessential value stock in almost every category. It has a diversified portfolio of controlled businesses, positions in equity securities, and an impeccable balance sheet.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817447%2Fwarren-buffett-ceo-of-berkshire-hathaway-3.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.846708"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.339218,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.078482",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.133593",
+          "ticker_sentiment_score": "0.178082",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Top Warren Buffett Stocks to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/05/10/3-top-warren-buffett-stocks-to-buy-right-now/",
+      "time_published": "20250510T151200",
+      "authors": [
+        "and Jennifer Saibil",
+        "John Ballard",
+        "Jeremy Bowman"
+      ],
+      "summary": "Warren Buffett has led an incredibly successful career as an investor. His knack for spotting value where others don't built a struggling textile mill in the 1960s into a company worth $1 trillion in 2025. Through the first quarter, Buffett's Berkshire Hathaway held a stock portfolio worth $263 ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817476%2Fwarren-buffett.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.995077"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.343997,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.078099",
+          "ticker_sentiment_score": "-0.087142",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.340915",
+          "ticker_sentiment_score": "0.308977",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.039096",
+          "ticker_sentiment_score": "-0.295393",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.039096",
+          "ticker_sentiment_score": "-0.295393",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.116914",
+          "ticker_sentiment_score": "0.125574",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.340915",
+          "ticker_sentiment_score": "0.433539",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.116914",
+          "ticker_sentiment_score": "-0.098826",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Monster Beverage Q1 Earnings Beat, Lower Sales Across Segments Hurt",
+      "url": "https://www.zacks.com/stock/news/2466407/monster-beverage-q1-earnings-beat-lower-sales-across-segments-hurt",
+      "time_published": "20250509T174800",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "MNST posts earnings beat in first-quarter 2025 results. Its Monster Energy Drinks segment's sales fell 0.6% year over year.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/65/1424.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.995921"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.123075,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "-0.171513",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "UTZ",
+          "relevance_score": "0.091743",
+          "ticker_sentiment_score": "0.151204",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UNFI",
+          "relevance_score": "0.091743",
+          "ticker_sentiment_score": "0.183768",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.0155",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOMD",
+          "relevance_score": "0.122114",
+          "ticker_sentiment_score": "0.14615",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.211983",
+          "ticker_sentiment_score": "0.207242",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AB InBev Q1 Earnings Beat on Brand Momentum, Revenues Fall Short",
+      "url": "https://www.zacks.com/stock/news/2466388/ab-inbev-q1-earnings-beat-on-brand-momentum-revenues-fall-short",
+      "time_published": "20250509T163300",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "BUD's Q1 results highlight strong above-core brand performance, fueled by premiumization and disciplined revenue management across key markets.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9b/1472.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.256135,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BUD",
+          "relevance_score": "0.21803",
+          "ticker_sentiment_score": "0.289599",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CABGY",
+          "relevance_score": "0.088147",
+          "ticker_sentiment_score": "0.072172",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.131884",
+          "ticker_sentiment_score": "0.148036",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KDP",
+          "relevance_score": "0.131884",
+          "ticker_sentiment_score": "0.220755",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Pizza and Cola: Are These Buffett Dividend Favorites the Key to a Recession-Proof Portfolio?",
+      "url": "https://www.fool.com/investing/2025/05/09/pizza-and-cola-are-these-buffett-dividend-favorite/",
+      "time_published": "20250509T120000",
+      "authors": [
+        "Dan Victor"
+      ],
+      "summary": "Legendary investor Warren Buffett made the surprise announcement that he will step down as CEO of Berkshire Hathaway at the end of this year. Longtime prot\u00e9g\u00e9 and current Vice Chairman Greg Abel has been named his successor and will look to continue Buffett's legacy of success and the financial ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817316%2Fwarren-buffett-photo-coca-cola-and-dominos-stock.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.972756"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.986564"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.332709,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.217346",
+          "ticker_sentiment_score": "0.25012",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.054983",
+          "ticker_sentiment_score": "0.288993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.418863",
+          "ticker_sentiment_score": "0.477074",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.109705",
+          "ticker_sentiment_score": "0.17334",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.269776",
+          "ticker_sentiment_score": "0.294284",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Coca-Cola vs. Kraft Heinz",
+      "url": "https://www.fool.com/investing/2025/05/09/best-stock-to-buy-right-now-coca-cola-vs-kraft-hei/",
+      "time_published": "20250509T092400",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "Investors monitor Berkshire Hathaway's ( NYSE: BRK.A ) ( NYSE: BRK.B ) portfolio of common stocks closely as they attempt to glean what CEO Warren Buffett and his team are thinking. That's fine for recent buys and sells within Berkshire Hathaway's portfolio, but it doesn't work quite as well for ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817220%2F22_10_31-a-person-shopping-in-snack-aisle-of-a-grocery-store-_supermarket-retail-_mf-dload.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.181793,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.605266",
+          "ticker_sentiment_score": "0.31751",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KHC",
+          "relevance_score": "0.679245",
+          "ticker_sentiment_score": "0.2674",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett Grew Berkshire Into a $1 Trillion Company. Can Greg Abel Take It to $2 Trillion?",
+      "url": "https://www.fool.com/investing/2025/05/09/warren-buffett-greg-abel-berkshire-hathaway/",
+      "time_published": "20250509T091500",
+      "authors": [
+        "Daniel Foelber"
+      ],
+      "summary": "Between 1964 and 2024, Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) achieved a staggering 5,502,284% gain compared to 39,054% for the S&P 500 ( SNPINDEX: ^GSPC ) with dividends reinvested. Compounded annually, Berkshire rose 19.9% versus 10.4% for the index, with dividends reinvested.During ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817345%2Fplants-sprout-from-stacks-of-coins-illustrating-the-concept-of-compounding-savings.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.692272"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.990678"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.233625,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.042189",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.042189",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.042189",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.192081",
+          "ticker_sentiment_score": "0.164945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.157633",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.077468",
+          "ticker_sentiment_score": "0.122645",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.157633",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.03878",
+          "ticker_sentiment_score": "0.042189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Should You Forget Constellation Brands? Why These Unstoppable Stocks Are Better Buys",
+      "url": "https://www.fool.com/investing/2025/05/09/forget-constellation-brands-why-stocks-better-buy/",
+      "time_published": "20250509T080900",
+      "authors": [
+        "Leo Sun"
+      ],
+      "summary": "Coca-Cola and Philip Morris International are safer investments.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817364%2Ffriends-drinking-beer.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.976913"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.360215"
+        }
+      ],
+      "overall_sentiment_score": 0.066804,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.09439",
+          "ticker_sentiment_score": "0.086855",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MO",
+          "relevance_score": "0.09439",
+          "ticker_sentiment_score": "0.001071",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.446742",
+          "ticker_sentiment_score": "0.206905",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PM",
+          "relevance_score": "0.141171",
+          "ticker_sentiment_score": "0.009169",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "With Warren Buffett Stepping Down as CEO of Berkshire Hathaway, Could Coca-Cola and American Express Be on the Chopping Block?",
+      "url": "https://www.fool.com/investing/2025/05/09/with-warren-buffett-stepping-down-as-ceo-of-berksh/",
+      "time_published": "20250509T070500",
+      "authors": [
+        "Jennifer Saibil"
+      ],
+      "summary": "Buffett said he would hold these stocks forever, but forever is coming to a close?",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817288%2Fperson-drinking-cola-in-a-car.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999822"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.160572,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.140773",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.412861",
+          "ticker_sentiment_score": "0.309096",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.161349",
+          "ticker_sentiment_score": "0.154178",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.412861",
+          "ticker_sentiment_score": "0.309096",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.045882",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.365294",
+          "ticker_sentiment_score": "0.215781",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Monster's CEO: 'We Don't Always Win' On Hedging-As Aluminum Tariffs Bite Into Q2 Margins - Alcoa  ( NYSE:AA ) , Coca-Cola  ( NYSE:KO ) ",
+      "url": "https://www.benzinga.com/news/earnings/25/05/45308042/monsters-ceo-we-dont-always-win-on-hedging-as-aluminum-tariffs-bite-into-q2-margins",
+      "time_published": "20250509T023422",
+      "authors": [
+        "Vishaal Sanjay"
+      ],
+      "summary": "Monster Beverage Corp. MNST is bracing for tighter margins in the second quarter as rising aluminum costs and tariff-related premiums begin to squeeze its bottom line.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/05/08/London--Uk---January-02--2018-A-Can-Of-M.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.074391,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AA",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "-0.120101",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "-0.119316",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Warren Buffett's Upcoming Move Isn't Cause for Concern",
+      "url": "https://www.fool.com/investing/2025/05/08/why-warren-buffetts-upcoming-move-isnt-cause-for-c/",
+      "time_published": "20250509T011100",
+      "authors": [
+        "Motley Fool Staff"
+      ],
+      "summary": "After 60 years at the helm of Berkshire Hathaway, the Oracle of Omaha is ready for retirement.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/817297/warren-buffett-passes-the-torch.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999975"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.176464,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOG",
+          "relevance_score": "0.010083",
+          "ticker_sentiment_score": "0.111014",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.10056",
+          "ticker_sentiment_score": "0.069273",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.030241",
+          "ticker_sentiment_score": "0.098929",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.030241",
+          "ticker_sentiment_score": "0.088766",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.080525",
+          "ticker_sentiment_score": "0.064686",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KHC",
+          "relevance_score": "0.010083",
+          "ticker_sentiment_score": "0.097557",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FRFHF",
+          "relevance_score": "0.010083",
+          "ticker_sentiment_score": "0.005956",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.010083",
+          "ticker_sentiment_score": "0.111014",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HSY",
+          "relevance_score": "0.010083",
+          "ticker_sentiment_score": "0.04796",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: Owning Berkshire Hathaway Stock Will Not Be the Same After Warren Buffett Steps Down",
+      "url": "https://www.fool.com/investing/2025/05/08/prediction-owning-berkshire-hathaway-stock-will-no/",
+      "time_published": "20250509T000000",
+      "authors": [
+        "Geoffrey Seiler"
+      ],
+      "summary": "Berkshire Hathaway ( NYSE: BRK.B ) ( NYSE: BRK.A ) has been a tremendous investment since the stock went public back in 1980. During that span, the insurance-led conglomerate has had only one chief executive officer: Warren Buffett.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817241%2Fgettyimages-483661187.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.094906,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.050148",
+          "ticker_sentiment_score": "0.210304",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.198628",
+          "ticker_sentiment_score": "0.072735",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Agnico Eagle Mines and Helen of Troy have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://www.zacks.com/stock/news/2465287/agnico-eagle-mines-and-helen-of-troy-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+      "time_published": "20250508T132100",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Agnico Eagle Mines and Helen of Troy are highlights of the Zacks Bull and Bear of the Day article.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/32/1050.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999998"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.053045,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AEM",
+          "relevance_score": "0.062003",
+          "ticker_sentiment_score": "0.069046",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.340639",
+          "ticker_sentiment_score": "0.042187",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.103153",
+          "ticker_sentiment_score": "0.056587",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.103153",
+          "ticker_sentiment_score": "0.056587",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HELE",
+          "relevance_score": "0.224525",
+          "ticker_sentiment_score": "0.024866",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett Isn't Seeing Enough Opportunities in the Stock Market. Should Investors Be Concerned?",
+      "url": "https://www.fool.com/investing/2025/05/08/warren-buffett-berkshire-hathaway-buy-stock-market/",
+      "time_published": "20250508T121500",
+      "authors": [
+        "Daniel Foelber"
+      ],
+      "summary": "The 60th annual Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) shareholder meeting didn't disappoint. Warren Buffett gave investors a healthy portion of wisdom, jokes, and insights on the stock market and economy.However, Berkshire Hathaway's position in risk-free assets like cash, cash ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817169%2Fberkshire-hathaway-ceo-warren-buffett.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.989041"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.160058,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.096091",
+          "ticker_sentiment_score": "0.235815",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.048133",
+          "ticker_sentiment_score": "0.132846",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.096091",
+          "ticker_sentiment_score": "0.235815",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.096091",
+          "ticker_sentiment_score": "0.164567",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett's Retirement: What Comes Next for Berkshire Hathaway?",
+      "url": "https://www.fool.com/investing/2025/05/08/warren-buffett-retirement-what-comes-next-for-berk/",
+      "time_published": "20250508T105400",
+      "authors": [
+        "Brett Schafer"
+      ],
+      "summary": "He finally did it. After 60 years at the helm and 75 as a professional investor, Warren Buffett has announced his plan to step down as CEO of Berkshire Hathaway ( NYSE: BRK.B ) by the end of 2025. Vice Chairman Greg Abel, current leader of the operating subsidiaries division, will step in as the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817276%2Fbuffett3-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.223764,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.051774",
+          "ticker_sentiment_score": "0.111499",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.051774",
+          "ticker_sentiment_score": "0.111499",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.56415",
+          "ticker_sentiment_score": "0.313935",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "PepsiCo Stock Slumps to 52-Week Low: Buy the Dip or Stay Away?",
+      "url": "https://www.zacks.com/stock/news/2464352/pepsico-stock-slumps-to-52-week-low-buy-the-dip-or-stay-away",
+      "time_published": "20250507T155900",
+      "authors": [
+        "Rajani Lohia"
+      ],
+      "summary": "The PEP stock faces pressure amid a weak North America outlook, with inflation and tariffs likely to weigh on margins and earnings, per its updated guidance.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/40/102.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.993856"
+        }
+      ],
+      "overall_sentiment_score": 0.009745,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.167904",
+          "ticker_sentiment_score": "0.079604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.167904",
+          "ticker_sentiment_score": "0.079604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.541943",
+          "ticker_sentiment_score": "0.010182",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Coca-Cola HBC  ( CCHGY )  Stock Outpacing Its Consumer Staples Peers This Year?",
+      "url": "https://www.zacks.com/stock/news/2464031/is-coca-cola-hbc-cchgy-stock-outpacing-its-consumer-staples-peers-this-year",
+      "time_published": "20250507T134009",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Here is how Coca-Cola HBC (CCHGY) and Premier Foods PLC. (PRRFY) have performed compared to their sector so far this year.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default188.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.714479"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.25312,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.530253",
+          "ticker_sentiment_score": "0.330508",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PFODF",
+          "relevance_score": "0.370143",
+          "ticker_sentiment_score": "0.291928",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CocaCola Company  ( The )   ( KO )  is Attracting Investor Attention: Here is What You Should Know",
+      "url": "https://www.zacks.com/stock/news/2463858/cocacola-company-the-ko-is-attracting-investor-attention-here-is-what-you-should-know",
+      "time_published": "20250507T130012",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Coca-Cola (KO) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default243.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.238084,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.484798",
+          "ticker_sentiment_score": "0.140965",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett Falls Behind Nancy Pelosi In Stock Market Returns Over The Last 11 Years: Here's What Data Shows - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/general/market-summary/25/05/45251508/warren-buffett-falls-behind-nancy-pelosi-in-stock-market-returns-over-the-last-11-years-he",
+      "time_published": "20250507T125427",
+      "authors": [
+        "Rishabh Mishra"
+      ],
+      "summary": "Nancy Pelosi's investments over 11 years have outperformed the 'Oracle of Omaha', Warren Buffett's Berkshire Hathaway Inc. BRK BRK, with gains that are more than double the latter's performance. What Happened: According to the data from Quiver Quantitative, Pelosi's investments have fetched her ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/05/07/Charging-Bull-Is-A-Bronze-Sculpture-That.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.256378,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.095899",
+          "ticker_sentiment_score": "0.117819",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.16687",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.370143",
+          "ticker_sentiment_score": "0.236858",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.20104",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.20104",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VST",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.224707",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLSQF",
+          "relevance_score": "0.095899",
+          "ticker_sentiment_score": "0.154064",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.20104",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.095899",
+          "ticker_sentiment_score": "0.131577",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TEM",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Old Port of Montr\u00e9al - Livelier, More Adventurous and More Festive Than Ever!",
+      "url": "https://www.benzinga.com/pressreleases/25/05/n45248154/the-old-port-of-montr-al-livelier-more-adventurous-and-more-festive-than-ever",
+      "time_published": "20250507T110000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "More than 70 events and activities to enjoy at the Old Port of Montr\u00e9al this summer! Thrills, spills, and chills on the program with Montr\u00e9al Bungee, Saute-Moutons, MTL Zipline, and PHI Studio. The ghost ship Bateau Fant\u00f4me by Navark drops anchor with two new adventures: The Ghost Treasure Hunt ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.426286,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.035875",
+          "ticker_sentiment_score": "0.075283",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2 Warren Buffett Stocks to Buy Hand Over Fist in May",
+      "url": "https://www.fool.com/investing/2025/05/07/2-warren-buffett-stocks-to-buy-hand-over-fist-in/",
+      "time_published": "20250507T104500",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "The list of publicly traded stocks within Berkshire Hathaway isn't particularly long. But the portfolio that Warren Buffett ( who plans to retire at the end of 2025 ) and his team have built gets scrutinized carefully by Wall Street for investment ideas.There are two stocks on the list that look ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817123%2F23_02_03-an-older-person-in-a-floatation-device-in-swimming-pool-_mf-dload.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.25408,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVX",
+          "relevance_score": "0.373911",
+          "ticker_sentiment_score": "0.304202",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.055492",
+          "ticker_sentiment_score": "0.114037",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.110717",
+          "ticker_sentiment_score": "0.024021",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway's Operating Earnings Fell: Is the Value Stock a Buy at an All-Time High?",
+      "url": "https://www.fool.com/investing/2025/05/07/berkshire-hathaway-buy-value-stock-all-time-high/",
+      "time_published": "20250507T090000",
+      "authors": [
+        "Daniel Foelber"
+      ],
+      "summary": "Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) blasted to a new all-time high on May 2 just in time for its 60th annual meeting in Omaha, Nebraska, last Saturday.The stock is crushing the S&P 500 ( SNPINDEX: ^GSPC ) year to date. It's up 14%, compared to a 4.5% decline in the index.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817120%2Fwarren-buffett-ceo-of-berkshire-hathaway-3.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999993"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.990678"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.143834,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.045743",
+          "ticker_sentiment_score": "0.141244",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.091335",
+          "ticker_sentiment_score": "0.090447",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.045743",
+          "ticker_sentiment_score": "0.011967",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.045743",
+          "ticker_sentiment_score": "0.141244",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.091335",
+          "ticker_sentiment_score": "0.006355",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Big Stock Splits Are Right Around the Corner -- and 2 of the 3 Stocks Are Great Picks During Uncertain Markets",
+      "url": "https://www.fool.com/investing/2025/05/07/3-big-stock-splits-right-around-the-corner-and-2-o/",
+      "time_published": "20250507T084600",
+      "authors": [
+        "Keith Speights"
+      ],
+      "summary": "What's something that receives more attention from investors than is probably warranted? A single quarterly earnings result would probably be near the top of the list. However, I'd add something else too: stock splits.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817263%2Fsoft-drink-held-out.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.723405"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.682689"
+        }
+      ],
+      "overall_sentiment_score": 0.144418,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COKE",
+          "relevance_score": "0.257805",
+          "ticker_sentiment_score": "0.020403",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FAST",
+          "relevance_score": "0.207571",
+          "ticker_sentiment_score": "0.127316",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.354862",
+          "ticker_sentiment_score": "0.026076",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORLY",
+          "relevance_score": "0.104683",
+          "ticker_sentiment_score": "0.056838",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Congressional Trading Report: Rep. Lloyd Doggett Bought Over $1K In Coca-Cola Stock - Coca-Cola  ( NYSE:KO ) , Home Depot  ( NYSE:HD ) ",
+      "url": "https://www.benzinga.com/insights/government/25/05/45225964/congressional-trading-report-rep-lloyd-doggett-bought-over-1k-in-coca-cola-stock",
+      "time_published": "20250506T150010",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "May 5, 2025 records indicate that Representative Lloyd Doggett filed a purchase of Coca-Cola KO, valued between $1,001 and $15,000. According to the May filing, the transaction occurred on May 5, 2025. Currently, Coca-Cola shares are trading down 0.33% at $71.46.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.168695,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HD",
+          "relevance_score": "0.21686",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.417995",
+          "ticker_sentiment_score": "0.172628",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.109455",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRITTO celebrates its 14th store opening by unveiling new location at Dolphin Mall this weekend",
+      "url": "https://www.benzinga.com/pressreleases/25/05/n45223154/britto-celebrates-its-14th-store-opening-by-unveiling-new-location-at-dolphin-mall-this-weekend",
+      "time_published": "20250506T140000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "Romero Britto's newest flagship store opens at Dolphin Mall, bringing an explosion of color, joy, and creativity to the heart of Miami. MIAMI, May 6, 2025 /PRNewswire/ -- World-renowned artist Romero Britto is proud to announce the grand opening of the latest BRITTO\u00ae store at Dolphin Mall, ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.567064,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SNROF",
+          "relevance_score": "0.056407",
+          "ticker_sentiment_score": "0.230996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.056407",
+          "ticker_sentiment_score": "0.230996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MAT",
+          "relevance_score": "0.056407",
+          "ticker_sentiment_score": "0.230996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HAS",
+          "relevance_score": "0.056407",
+          "ticker_sentiment_score": "0.230996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.056407",
+          "ticker_sentiment_score": "0.230996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hispanic shoppers are spending less on groceries, putting pressure on consumer companies",
+      "url": "https://www.cnbc.com/2025/05/06/hispanic-shoppers-groceries-coca-cola-modelo-corona-mazola.html",
+      "time_published": "20250506T110001",
+      "authors": [],
+      "summary": "Coca-Cola, Constellation Brands and Colgate-Palmolive reported that Hispanic consumers are spending less, which weighed on their North American sales.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Business",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": -0.13434,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.072987",
+          "ticker_sentiment_score": "0.07698",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KDP",
+          "relevance_score": "0.072987",
+          "ticker_sentiment_score": "-0.096694",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.109289",
+          "ticker_sentiment_score": "0.057736",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CL",
+          "relevance_score": "0.072987",
+          "ticker_sentiment_score": "-0.073489",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ASBFF",
+          "relevance_score": "0.036532",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.036532",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SAM",
+          "relevance_score": "0.072987",
+          "ticker_sentiment_score": "-0.135333",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.036532",
+          "ticker_sentiment_score": "0.211065",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "J & J Snack Foods Reports Fiscal 2025 Second Quarter Results",
+      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074899/18519/en/J-J-Snack-Foods-Reports-Fiscal-2025-Second-Quarter-Results.html",
+      "time_published": "20250506T110000",
+      "authors": [
+        "J & J Snack Foods Corp."
+      ],
+      "summary": "MOUNT LAUREL, N.J., May 06, 2025 ( GLOBE NEWSWIRE ) -- J & J Snack Foods Corp. ( NASDAQ: JJSF ) ( the \"Company\" ) today reported financial results for the second quarter ended March 29, 2025.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/117cac1f-056c-4a86-b56f-b537230a9850",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.938238"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.105529,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.020758",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JJSF",
+          "relevance_score": "0.082891",
+          "ticker_sentiment_score": "0.026826",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "My 3 Favorite Stocks to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/05/06/my-3-favorite-stocks-to-buy-right-now/",
+      "time_published": "20250506T071500",
+      "authors": [
+        "James Brumley"
+      ],
+      "summary": "There are plenty of good ones to choose from, but these three are all undervalued, leaving them ripe for a lot of bullishness sooner than later.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F816927%2Finvestment-analyst.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.123022,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.030292",
+          "ticker_sentiment_score": "-0.03248",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IOVA",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.099793",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.079435",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLDAF",
+          "relevance_score": "0.030292",
+          "ticker_sentiment_score": "-0.025848",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.180236",
+          "ticker_sentiment_score": "0.141747",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.030292",
+          "ticker_sentiment_score": "-0.03248",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.238718",
+          "ticker_sentiment_score": "0.100331",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.030292",
+          "ticker_sentiment_score": "-0.028137",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here's How to Invest in ETFs With Warren Buffett's Strategies",
+      "url": "https://www.zacks.com/stock/news/2462316/heres-how-to-invest-in-etfs-with-warren-buffetts-strategies",
+      "time_published": "20250505T160000",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "With Warren Buffett stepping down as Berkshire's CEO, let's dig into his investing lessons and the related ETFs.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ee/75277.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999892"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.339821,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.128478",
+          "ticker_sentiment_score": "0.111872",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.191675",
+          "ticker_sentiment_score": "0.293699",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MORN",
+          "relevance_score": "0.064449",
+          "ticker_sentiment_score": "0.348344",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.191675",
+          "ticker_sentiment_score": "0.293699",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.064449",
+          "ticker_sentiment_score": "0.13517",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Stocks Warren Buffett First Bought 24 Years Ago  ( Hint: Apple's Not One Of Them ) ' - Coca-Cola  ( NYSE:KO ) , Moodys  ( NYSE:MCO ) , American Express  ( NYSE:AXP ) ",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/05/45193861/3-stocks-warren-buffett-first-bought-24-years-ago-hint-apples-not-one-of-them",
+      "time_published": "20250505T133128",
+      "authors": [
+        "Surbhi Jain"
+      ],
+      "summary": "Buffett still holds AmEx, Coca-Cola, and Moody's - 24 years after first investing in them in 2001. Apple may be Berkshire's biggest bet, but Buffett's longest-held stocks go way further back. Feel unsure about the market's next move?",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/05/05/Warren-Buffett_0.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.302317,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.273807",
+          "ticker_sentiment_score": "0.156665",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.184598",
+          "ticker_sentiment_score": "0.186435",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.516316",
+          "ticker_sentiment_score": "0.135721",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.273807",
+          "ticker_sentiment_score": "0.318217",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.184598",
+          "ticker_sentiment_score": "0.17771",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Take the Zacks Approach to Beat the Markets: ADMA Biologics, Limbach, Quest Diagnostics in Focus",
+      "url": "https://www.zacks.com/stock/news/2461920/take-the-zacks-approach-to-beat-the-markets-adma-biologics-limbach-quest-diagnostics-in-focus",
+      "time_published": "20250505T122500",
+      "authors": [
+        "Santanu Roy"
+      ],
+      "summary": "Last week, our time-tested methodologies served investors well in navigating the market. Check out some of our achievements from the past three months.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/01/1450.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99393"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.9545"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.161125,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LMB",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.309223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PRMB",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.059994",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAVE",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.309223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IPI",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.085998",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DGX",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.088032",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.088032",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.089129",
+          "ticker_sentiment_score": "0.109692",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.085998",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADMA",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.201031",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROL",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.106",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top Wide-Moat Stocks to Invest in for Long-Term Growth",
+      "url": "https://www.zacks.com/stock/news/2461914/top-wide-moat-stocks-to-invest-in-for-long-term-growth",
+      "time_published": "20250505T122200",
+      "authors": [
+        "Anindya Barman"
+      ],
+      "summary": "Investing in wide-moat stocks like PFE, ASML, LRCX and KO can be a strategy for long-term wealth creation due to their ability to deliver consistent returns.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/35/90867.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.997405"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.388284,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.183496",
+          "ticker_sentiment_score": "0.305762",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.05286",
+          "ticker_sentiment_score": "0.114997",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.131643",
+          "ticker_sentiment_score": "0.143654",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.05286",
+          "ticker_sentiment_score": "0.105866",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.131643",
+          "ticker_sentiment_score": "0.131197",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ASML",
+          "relevance_score": "0.209139",
+          "ticker_sentiment_score": "0.196529",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.05286",
+          "ticker_sentiment_score": "0.114997",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

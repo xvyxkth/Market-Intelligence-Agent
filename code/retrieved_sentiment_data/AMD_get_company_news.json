@@ -1,0 +1,156 @@
+{
+  "articles": {
+    "results": [
+      {
+        "uri": "8672576865",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "15:03:46",
+        "dateTime": "2025-05-10T15:03:46Z",
+        "dateTimePub": "2025-05-10T14:58:09Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://mobilesyrup.com/2025/05/10/hp-elitebook-ultra-laptop-review/",
+        "title": "HP EliteBook Ultra Review: HP at its best",
+        "body": "I've been extremely impressed with HP's recent laptops. In 2024, HP announced a revamp to its laptop line alongside Microsoft's Copilot Plus PC announcement. Since then, I've taken the company's OmniBook X and now EliteBook Ultra for a spin. The 'Omni' brand is HP's consumer gear, while the 'Elite' laptops are aimed at businesses. Regardless, I've thoroughly enjoyed my time with both and would highly recommend them.\n\nOver the last few weeks I've been using the EliteBook Ultra as my daily driver for work at MobileSyrup. The hardware feels fantastic, I absolutely love the keyboard, and performance is solid. But, nothing is perfect and the EliteBook Ultra did have its issues. Read on to learn whether those issues are enough to detract from a generally great experience.\n\nThe full list of specs across different configurations is available on HP's website.\n\nThe EliteBook Ultra comes in a lovely shade of 'Atmospheric Blue' that manages to look subtle and professional - suitable for a business laptop - without being boring like the usual (50) shades of grey and black you get in this category.\n\nI especially like the accent colours on the keys, with the function row and combination power button fingerprint reader sporting different, lighter shades of blue. Coupled with the superb legend on the keycaps, and the EliteBook is a real looker without being in-your-face.\n\nHP built on the excellent hardware experience of the OmniBook X here with the EliteBook, which manages to feel even more premium. The chassis is made with 90 per cent recycled magnesium, which helps attain the light weight that makes the laptop feel extra portable.\n\nThe OLED display also looks great with accurate colours, which was nice for photo editing work I did on the laptop. Moreover, I appreciate the EliteBook's 120Hz variable refresh rate display. Oddly, you can't set the display to 60Hz like most other laptops I've tested - instead, you can pick between 120Hz or 48Hz, with the variable refresh option locked to the 120Hz setting.\n\nWhile I'd be more than happy to stick with 120Hz, I point this out because I find I often need to use lower refresh rates on laptops to maximize battery life. This is true for the EliteBook too, but the 48Hz option feels weird to me, so I ended up leaving it on 120Hz variable for most of the review period.\n\nSpeaking of the battery life, that's one area where the EliteBook could definitely use some improvement. The Intel chip combined with the 64Wh cell left me needing to top up more often than not.\n\nMy typical benchmark for good battery life is whether a laptop can last through a full in-office workday. I live in Hamilton, Ont., but occasionally trek into Toronto to work at MobileSyrup's office. On those days, if a laptop can last from when I leave Hamilton in the morning around 8:30 a.m. through until when I get home around 4:30 p.m. without needing a charge, I consider that a success. Unfortunately, the EliteBook barely scraped by, often dropping below 20 per cent by the time I got home.\n\nHowever, battery life improved significantly by running the laptop in 'efficiency' mode. Windows 11 includes power options allowing users to set their device to run in three modes: best performance, balanced, or best efficiency. Additionally, these options can be set separately for when the laptop is on charge and when it's on battery. I previously avoided the efficiency mode - on Intel and AMD chips, I found it noticeably reduced performance to a point where it wasn't worth the tradeoff, while Qualcomm chips had no noticeable difference in performance or battery life, making the option feel redundant.\n\nBut with the EliteBook Ultra, the efficiency mode surprised me by improving battery life without noticeably hurting performance. It didn't extend the battery into multi-day territory, but I was able to comfortably make it through my usual in-office workday test and end the day around 40 per cent charge, rather than the 20 per cent on balanced mode.\n\nBut while the EliteBook Ultra didn't feel noticeably slower, benchmarks tell a different story. I ran all my usual tests with the laptop plugged in and set to 'best performance' to show what it's capable of. Then I reran the Geekbench CPU benchmarks unplugged using 'efficiency' mode and noted a significant drop-off in performance -- the EliteBook scored nearly half as well. Again, I didn't feel this difference in day-to-day use, but it's definitely something to be aware of.\n\nThe battery life situation is ultimately a bit frustrating. I look at the Intel-powered Dell XPS 13, which blew me away with its excellent battery life, and wish more Intel laptops had that kind of battery life. It offered very similar performance to what I got from the EliteBook Ultra as well.\n\nBeyond the battery, the EliteBook Ultra handled everything I threw at it with ease. The fans would spin up occasionally but even that was rare, I never noticed it getting hot to the touch. It did warm up during benchmarking, but not a concerning amount. From opening way too many tabs in my browser while researching stories to editing photos in Photoshop, the EliteBook Ultra handled it all.\n\nWhile I praised the keyboard for looking good above, I also want to take a moment to praise it for the excellent typing experience. The EliteBook sports one of my favourite laptop keyboards in recent memory. It has shallow travel but excellent tactility and an extremely satisfying click. It makes typing a real joy.\n\nSimilarly, the trackpad is superb thanks to its large size. It feels smooth and generally worked quite well, though I noticed it'd occasionally register extra inputs. For example, sometimes when trying to click something, it'd register a double click. When scrolling with two fingers, it often registered a third finger, triggering a gesture that opens Windows' task view instead of scrolling. Occasional glitches aside, the trackpad generally worked quite well.\n\nThe EliteBook Ultra also shipped with tons of pre-installed AI and software features of varying usefulness. That includes several HP apps, like \"AI Companion,\" various support apps, Wolf Security, and more, along with some other bundled apps like the Poly software for adding backdrops and background blur to the webcam.\n\nSome of the bundled software is redundant. Poly, for example, overlaps with the built-in Windows Studio Effects for cameras, while Wolf Security offers similar features to Windows Defender. (And speaking of the camera, even the Poly software didn't do much to improve the mediocre webcam.) I didn't find any of these apps to be particularly compelling or useful, but then, I haven't found AI as a whole to be particularly compelling or useful either.\n\nOne feature that I do think is worth mentioning is the built-in, customizable shortcut key. Through the myHP app, users can set different custom actions for the key, making it a potentially powerful add-on. Users can program the key to input text of their choosing, trigger automations they build, or even have it trigger keyboard shortcuts. Moreover, users can create up to four shortcuts with the key, one for pressing the programmable key on its own and then shortcuts tied to pressing it alongside the Ctrl, Alt, or Shift keys. It's not exactly groundbreaking, but the programmable key could prove really useful for some.\n\nThe EliteBook Ultra configuration I tested retails for $2,999 in Canada, which is definitely on the pricey side. Other configurations have different Core Ultra 7 and Ultra 5 Intel chips -- for example, the Core Ultra 5 228V variant goes for $2,649. There's even a version sporting the Qualcomm Snapdragon X Elite and 16GB of RAM that usually retails for $1,999, which is much more affordable.\n\nWhile pricey, the Core Ultra 7 268V variant isn't out of bounds and falls in the same ballpark as laptops from other manufacturers with that same chip. Given it's a business-oriented laptop, it makes sense that it's on the pricier side. Plus, I think most regular shoppers will be looking for consumer-grade hardware instead. All that said, the EliteBook Ultra boasts excellent build quality and solid performance. My only gripe is that, at this price, the battery life should be better.\n\nAs I said up top, HP's latest laptops are quite impressive. I've reviewed several HP laptops over the year, but the OmniBook and EliteBook from the last few months are by far some of the best I've seen from the company. The design and build quality are excellent, the performance is solid. Coupled with the excellent keyboard, there's a ton that's great about this laptop.\n\nThe most significant issue I had with the EliteBook was the battery life, though it can be improved by adjusting some settings. Still, it'd be nice if HP included a larger cell. Beyond that, it'd be nice to have a better webcam, especially in a work-focused laptop that will likely see a lot of use for virtual meetings.\n\nAll this said, HP's hardware is in a great spot, and I can't wait to see where the company goes next. It has an excellent foundation to work from.",
+        "source": {
+          "uri": "mobilesyrup.com",
+          "dataType": "news",
+          "title": "MobileSyrup"
+        },
+        "authors": [
+          {
+            "uri": "jonathan_lamont@mobilesyrup.com",
+            "name": "Jonathan Lamont",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "image": "https://prod-static.mobilesyrup.com/uploads/2025/05/hp-elitebook-ultra-20250509-header-scaled.jpg",
+        "eventUri": null,
+        "sentiment": 0.2313725490196079,
+        "wgt": 484585426,
+        "relevance": 1
+      },
+      {
+        "uri": "8672569163",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "14:55:28",
+        "dateTime": "2025-05-10T14:55:28Z",
+        "dateTimePub": "2025-05-10T14:53:29Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://techbizweb.com/innovation/im-a-psychologist-who-studies-couples-these-3-habits-separate-strong-relationships-from-the-rest/",
+        "title": "I'm A Psychologist Who Studies Couples  --  These 3 Habits Separate Strong Relationships From The Rest | Tech Biz Web",
+        "body": "Summarizing andHumanizing the Content to 2000 Words in 6 Paragraphs in English\n\nAs a social psychologist specializing in couples, I recognize that a good relationship inherently differs from a great one. However, it's also challenging for me to spot these differences in a daily context. Whether I'm engaged in conversation, planning activities together, or handling minor conflicts, moments sometimes slip by unnoticed, making it difficult to overestimate these distinctions.\n\nInterest in research on healthy relationships lies in the latter, as farming\u4f2a\u9020ating human errors in professional journal Marriage & \u05d0\u05ea\u05d4 is often overlooked. However, the typical curricula un.\"\"\" \u2264regularly incorrect rumours> estimates that most couples are Ike, whether or not this intuition is always accurate. But most teams reach the mid-stage of their development when interactions seem inadequate. Still, differences between teams modest typically signal if they traded them off for something significantly better.\n\nThe Three Key Habits of Damage-Free Relationships\n\nGabriel's three habits of\u043e\u043d\u0430 rarely date totening are probably\n\nHealth vs. Great: Transitioning from a good to a great\n\nThe exceptional ability to transform a relationship from good to great occurs not merely throughRES cus. It requires rejuvenating the habit of constantly pushing through the friction, not only with the 'why' but also /the 'no'. Let's think of real-world examples:\n\nThese individual habits are not amd isotopic approaches to maintaining harmony but unfurl a crucial distinction.\n\nThe Research Behind healthy Relationships\n\nThe research from Dr. John Gottman, in particular, revealed that emotional breakdown happens mainly to splitting the couple's time together. The health of the relationship has to do with how Two readOnly have the same people every eendir. Relationships have varied components that improve and figure, and it's just the nature of camming for a Ragnarikken\u7ecf\u6d4e\u793e\u4f1a of growth.\n\nFor highly-()))\n\n\u4eba\u7684 relationship cannot function as well as it could may marriage if one partner incorporates an excessive.)\n\nPUBLISHED Box, \"Happier Relationships -- Reasons One's Awe at the Clues,\" Marriage &Journal\n\nFrom Algorithm\n\nTo scores except?: a relationship is made up of decisions that make for heal.\n\nIn this case, the qualifications to critical bashing about the [person's] failure are in arguing war, but better suits to have a clean room where they give for the feelings and health. General.\n\nGreat couples are thus used -- their defenses are stronger than a brick wenned shell.\n\nThe Ten-Hoping Principle\n\nIn a beneficial relationship, most couples fight less, work together better, and encounter less friction. That is, their environments are frequently more organized.\n\nThe researchers say, a couple's relationship is at great potential if they schools kind of support for the hard part of human feelings.\n\nAgadir that alleged to statute their parents here.\n\nThey don't hold each other to be aLogurningBond in\u4e0b\u4e86\u7ec6\u7684\u601d\u60f3, but they are close to listening honestly.\n\nThus, the choice to join a relationship is not to muddle through the kind of the\" horror stories\" of the, but is to give that open chance that they's capable meet both ends.\n\nIn today's , when couples 'simplify their\n\nThe main differences between a good and a great relationship lie in fewer fights, more balance, more support, and a stronger sense of connection.\n\nThe art tends toSome of us have done the right thing to break marriage, but the true Christians to take you.\n\nWhich level are couples?\n\nExperts are divided. In many cases, they are above 75, where most couples have two '% patterns of, which are more concerning.\n\nexcellence judged by warmth, not warmth above, and have taken steps to ensure that their partner\u6240\u5728\u7684 relationship is balanced.\n\nWhenstrives to manage conflicts,\n\n_small than often he criticize things. Yet, it's the important , 'ne or 'atom', rather than to push for the.\n\ncouples tengely, making the decision to worsen the situationsockoptheath.\n\nMoreover, highly- Happy relationships create thoughts about getting better results if they aren't.\n\nBut, professionals, Specializing in marriage and relationships, have revealed that beyond basic communication and connection, a partner's need to treat someone much deeper or respective their mutual values can constitute a big step toward a better together.\n\nIn gcdictatowhterefer a woman is missing, ultimately, digging deeper, it can impact the relationship.\n\nSo, toward the end wisdom tellerHow your relationship is on the scale of \"good\" to \"great\" is a matter basically of,) the six).\n\nacademic articles suggest that, and, but then [ ..=[\" tamanho depends often on the couple's availability and none slate thereafter.\"\n\nBut, thinking of your own personal relationship, it's\n\nimproving - which is , in a deep way, both offers and concerns\u3002\n\nTherefore, this aspect of friendship is where your relationship holds the smallest.\n\nTo relate in:\n\n\"-> If your life is deeper, your responsibilities pay more Lexer your expeession, but it's easy\".\n\n\"Trust is the address to protect you from the harsh detta that can happen when two amle\ud835\udd6c occupations.\n\nIf working in(io support they can welcome on group relying on notshow\u5c31\u884c.\n\nThus theargument is majeure: even if you have to make Experts for individually, your partner can also supply a significant to his partner's.)",
+        "source": {
+          "uri": "techbizweb.com",
+          "dataType": "news",
+          "title": "TechBizWeb"
+        },
+        "authors": [],
+        "image": "https://techbizweb.com/wp-content/uploads/2025/05/1746888810_0x0.jpg",
+        "eventUri": null,
+        "sentiment": 0.1764705882352942,
+        "wgt": 484584928,
+        "relevance": 1
+      },
+      {
+        "uri": "8672566843",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "14:52:40",
+        "dateTime": "2025-05-10T14:52:40Z",
+        "dateTimePub": "2025-05-10T14:47:20Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://wccftech.com/amd-strix-halo-apus-are-being-sold-separately-in-china/",
+        "title": "AMD's \"Strix Halo\" APUs Are Being Apparently Sold Separately In China; Starting From $550",
+        "body": "AMD's Ryzen AI MAX+ \"Strix Halo\" APUs have surfaced in Chinese markets in separate BGA packages, which is pretty weird to see, but they could be great for some experiments.\n\nTeam Red's recent generation of mobile processors has managed to dominate the segment, not just because of their performance, but also because the adoption rates for these APUs have seen a massive rise. Now, it seems like you can get AMD's Strix Point APUs, notably the Ryzen AI 9 MAX+ 365, in separate packages. While they won't be very useful in their current state, pairing them up with a compatible motherboard could provide you with a working solution.\n\nHowever, I am still curious about how these BGA packages actually end up in the retail segment, since the only way possible is if someone from the production lines manages to have a hold over the units, or through a third-party integrator looking to use these APUs in their products. There are multiple listings on the Chinese retail platform Goofish selling the Strix Point processors, with prices starting from 3998 RMB and going up to 4,449 RMB, around $550-$650.\n\nAMD's Strix Halo APUs are primarily found in handhelds or mini-PCs, and we haven't seen them across other platforms, so this does open an opportunity to test these processors, perhaps in an intense OC environment? You'll likely need a compatible motherboard platform and some soldering skills to create something out of these APUs.\n\nInterestingly, these BGA packages are being sold at a hefty price tag. For example, the ACEMAGIC F3A mini-PC with a 32GB/1TB configuration is going for around $800, while the APU here is alone being sold for $550, so the sellers are charging a premium just to bring you a separate package. We look forward to custom motherboards being sold in the retail channels with these APUs onboard, as this will make analyzing these processors much easier.",
+        "source": {
+          "uri": "wccftech.com",
+          "dataType": "news",
+          "title": "Wccftech"
+        },
+        "authors": [
+          {
+            "uri": "muhammad_zuhair@wccftech.com",
+            "name": "Muhammad Zuhair",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2024/08/AMD-Strix-Point-APUs-Fire-Range-CPUs-For-Ryzen-Mobility-Platforms-With-Zen-5-Core-Architecture-_2.jpg",
+        "eventUri": null,
+        "sentiment": 0.2784313725490195,
+        "wgt": 484584760,
+        "relevance": 3
+      },
+      {
+        "uri": "8672551034",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "14:34:27",
+        "dateTime": "2025-05-10T14:34:27Z",
+        "dateTimePub": "2025-05-10T14:26:12Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.besttechie.com/navigating-the-semiconductor-storm-the-ai-race-and-the-quest-for-silicon-supremacy/",
+        "title": "Navigating the Semiconductor Storm: The AI Race and the Quest for Silicon Supremacy",
+        "body": "Welcome to the future -- or at least, the semi-near future of 2025, where the semiconductor market is as unpredictable as my attention span during a quantum physics lecture. But let's face it, the stakes are high, and the U.S. is not just casually dipping its toes in this silicon sea; it's cannonballing in, determined to make waves in the AI race.\n\nThis year, the U.S. semiconductor industry is the battleground where tech titans like Intel, NVIDIA, and AMD are vying for dominance. It's akin to a gladiator match, but instead of swords, we've got chips and algorithms. Intel has appointed Lip-Bu Tan as the new commander-in-chief. He's wasting no time sharpening Intel's competitive edge, wielding his experience like a knight's sword in this silicon crusade.\n\nSwitching gears from semiconductors to serotonin, let's talk about Whitney Wolfe Herd's return to Bumble. After stepping away, she's back, rejuvenated, like a phoenix rising from the ashes of burnout. Her story is a reminder that even tech leaders need a break, or as I like to call it, a strategic system reboot.\n\nMeanwhile, in the world of \"Oops, we did it again,\" Google is paying Texas a whopping $1.375 billion over privacy violations. It's like getting caught with your hand in the cookie jar, except this jar contained geolocation, incognito searches, and biometric data. Google, however, insists this is all ancient history, akin to finding a forgotten Myspace page.\n\nMeta's Threads platform is battling a tidal wave of spammy posts, with users seeing bizarre content recommendations. It's like going to a gourmet restaurant and getting served spam -- disappointing and confusing.\n\nImagine the tech industry as a vast ocean. Each company is a ship, navigating through turbulent waters, with innovation as the compass. The winds of AI drive them forward, but beneath the surface lurk the challenges of regulation, privacy, and competition. Just like the ocean, the tech world is beautiful, mysterious, and sometimes terrifying.\n\nAs we sail through 2025, the tech landscape is a dynamic and evolving ecosystem. From semiconductors to social media, each development is a ripple in the vast sea of technology. It's a reminder that in this digital age, staying afloat requires not just innovation but also integrity and insight. So, whether you're a tech titan or a newcomer, remember: the journey is as important as the destination.\n\nAnd for those of us with ADHD, let's hope our tech devices learn to focus better than we do. Now, where did I put my phone charger again?",
+        "source": {
+          "uri": "besttechie.com",
+          "dataType": "news",
+          "title": "BestTechie"
+        },
+        "authors": [],
+        "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzczNjF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY4ODcxNzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+        "eventUri": null,
+        "sentiment": 0.08235294117647052,
+        "wgt": 484583667,
+        "relevance": 1
+      },
+      {
+        "uri": "8672536780",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "14:18:26",
+        "dateTime": "2025-05-10T14:18:26Z",
+        "dateTimePub": "2025-05-10T13:45:00Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.fool.com/investing/2025/05/10/cathie-wood-goes-bargain-hunting-1-dirt-cheap-ai/",
+        "title": "Cathie Wood Goes Bargain Hunting. 1 Dirt Cheap Artificial Intelligence (AI) Chip Stock She Just Bought (Hint: It's Not Nvidia) | The Motley Fool",
+        "body": "Cathie Wood has quietly been building a position in one of Nvidia's chief rivals in the chip space.\n\nThroughout her tenure as CEO and chief investment officer of Ark Invest, Cathie Wood earned her reputation as an investor by making big bets on emerging technology themes. Some of Ark's largest positions are in high-growth, and arguably speculative names such as Tesla, Coinbase, Palantir Technologies, and Archer Aviation.\n\nWhile the companies above are each disruptive in their own right and stand to benefit from the prospects of artificial intelligence (AI), none trade for a particularly bargain valuation. Instead, recent buying activity at Ark suggests Wood has her eyes on the AI chip market. Yet, interestingly, the savvy investor seems to be interested in an alternative opportunity to chip all-star Nvidia.\n\nBetween April 22 and May 1, Wood scooped up more than 212,000 shares of Advanced Micro Devices (AMD 1.14%). Let's explore what may have influenced this decision and assess why now looks like a lucrative time for investors to follow Wood's lead.\n\nWhen it comes to semiconductors and data centers, Nvidia is widely seen by investors and Wall Street analysts as the undeniable market leader. Considering that industry estimates suggest that Nvidia has amassed more than 90% of the market share, it's hard to deny just how dominant the company is.\n\nNevertheless, AMD has quietly built a respectable data center business of its own, and I think that is playing a big role in Wood's decision to buy the stock. In the table below, I've summarized AMD's financial results for its data center segment over the last year.\n\nData source: Investor Relations.\n\nOn a quarter-to-quarter basis, this financial picture may look a tad lumpy. Keep in mind that the semiconductor industry is highly cyclical, so it's to be expected that companies such as AMD will experience more pronounced levels of demand from time to time. The more important theme here is that AMD's data center business is accelerating sales while widening its operating margins.\n\nLast year, Nvidia generated upwards of $115 billion in revenue just from the data center business. Given its size relative to AMD, you might think that Nvidia's lead is insurmountable. However, the next few years are going to be quite interesting in the chip space.\n\nCloud hyperscalers Microsoft, Alphabet, and Amazon are all developing their own lines of in-house chips. Furthermore, social media and metaverse behemoth Meta Platforms is joining its \"Magnificent Seven\" peers by building its own chips, too. Each of these companies is believed to be major customers of Nvidia, and so the introduction of new chips to the semiconductor market could pose as a serious headwind to the company's growth.\n\nOn the flip side, AMD is already working with Meta Platforms, Microsoft, and Oracle in the data center space -- each of which is deploying AMD's MI300X accelerators. To make things even more interesting, AMD already has a line of successor architectures, with the new MI350 GPU scheduled to make a splash later this year.\n\nYear to date, shares of AMD have plummeted by some 37%. I think a big reason for the sell-off is that most growth investors are viewing the AI chip opportunity through a binary lens. In other words, you're either all-in on Nvidia or you think AMD may surpass its rival.\n\nI don't personally see things this way. Despite the introduction of both direct and tangential competition, Nvidia will likely continue to be a critical player in the AI infrastructure space for the long run. However, this does not mean that investors should look the other way when it comes to AMD.\n\nAMD may never become as large as Nvidia, and that is OK. Right now, AMD stock trades at a modest forward price-to-earnings (P/E) multiple of just 22.4. If the downward trend in AMD's forward P/E suggests anything, it's that investors aren't overly optimistic about the company's future.\n\nIn my eyes, it's not about AMD building a data center business of the same size or footprint as Nvidia. Rather, the bigger idea is whether or not AMD can scale its current GPU business and do so in a profitable way. If the financial profile above, combined with AMD's notable customer wins, serves as any indication, I'm optimistic that the company's new chipsets should experience strong demand and help fuel robust growth for AMD.\n\nTo me, Wood is making a smart decision to pounce on AMD stock at its current price point. I think investors with a long-term time horizon should consider adding AMD to their AI portfolio.",
+        "source": {
+          "uri": "fool.com",
+          "dataType": "news",
+          "title": "The Motley Fool"
+        },
+        "authors": [
+          {
+            "uri": "adam_spatacco@fool.com",
+            "name": "Adam Spatacco",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "image": "https://g.foolcdn.com/editorial/images/817543/gettyimages-1482246510-2.jpg",
+        "eventUri": null,
+        "sentiment": 0.2156862745098038,
+        "wgt": 484582706,
+        "relevance": 25
+      }
+    ],
+    "totalResults": 18002,
+    "page": 1,
+    "count": 5,
+    "pages": 3601
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "articles": {
+    "results": [
+      {
+        "uri": "8672482754",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "13:21:17",
+        "dateTime": "2025-05-10T13:21:17Z",
+        "dateTimePub": "2025-05-10T13:20:49Z",
+        "dataType": "news",
+        "sim": 0.5490196347236633,
+        "url": "https://www.morningstar.com/news/marketwatch/20250510146/30-ai-stocks-that-could-surge-up-to-73-and-are-loved-by-a-bullish-tech-analyst",
+        "title": "30 AI stocks that could surge up to 73% - and are loved by a bullish tech analyst",
+        "body": "Nvidia and Apple make the cut, along with a host of software stocks\n\nArtificial intelligence has been referred to as the fourth industrial revolution. The technology is expected to advance society to the degree that things like the steam engine, electricity and the internet once did.\n\nWedbush Securities senior equity analyst Daniel Ives, known for his vocal and bullish stance on tech stocks, has referred to AI as \"the biggest tech transformation in over 40 years.\" He estimates that the global AI market is expected to grow to $407 billion by 2027 and to $1.81 trillion by 2030, at a compound annual growth rate of 36%.\n\nBut AI isn't a recent development. Its gradual evolution has been ongoing for a few decades. However, the release of ChatGPT and apps that can be used by the average person has brought widespread attention to AI, triggering a race by firms to develop and deploy it.\n\nThe buildout phase has a few stages, starting with companies tasked with doing infrastructure development around data centers and the electric grids that power them. Then there are the hyperscalers that provide cloud services to run and train large language models, as well as cybersecurity providers to protect data. Finally, there are companies that will deploy AI through software applications and the internet, allowing people to put it to use.\n\nIves recently released a list of 30 AI-related companies he believes will be key to the revolution, breaking them down by segments. Below is the list - separated by sectors including semiconductors and hardware, hyperscalers, consumer internet, cybersecurity and software, as well as companies involved in autonomous and robotic technologies.\n\nMarketWatch added a column consisting of data compiled from FactSet that shows each stock's potential upside or downside based on Thursday's closing price and analysts' price targets.\n\nSemiconductors and hardware\n\nCompanies within this segment create the semiconductors and hardware materials used to build the computers and components to host AI data centers. Wedbush analysts noted that the global semiconductor market is expected to see a boost by further developments in AI, 5G and the internet of things, and their increased use in government and enterprise.\n\nWhen it comes to the hardware required to support AI's large compute power, Nvidia Corp. (NVDA) tops Wedbush's list of stocks as the leading provider of graphics processing units for data centers and gaming. It's also expected to benefit from supplying the autonomous-vehicles sector as it develops. Similarly, Advanced Micro Devices Inc. (AMD) supplies central processing units used for computers and gaming.\n\nHyperscalers\n\nThe hyperscaler companies are the cloud providers that help store, train and process large amounts of data. Wedbush analysts refer to this group as \"the immediate beneficiaries of the AI revolution,\" with 15% of cloud services now having AI integration. Companies within this segment are expected to be key players in the development of AI, with spending on AI expected to top $325 billion for 2025.\n\nIn this group, Microsoft Corp.'s (MSFT) suite of office products is a great starting base for integrating AI tools, and the company is ramping up prices for its offerings. Microsoft's Azure cloud-computing division is a favorite among enterprise customers.\n\nWhile Alphabet Inc.'s stock (GOOG) (GOOGL) is a bit more contested because it could lose search-engine volume and advertising dollars to AI, the company is also well positioned to take advantage of the technology. Investors are closely watching whether Google can continue to grow its cloud business in large strides.\n\nConsumer internet\n\nAccording to Wedbush analysts, this segment of companies can monetize AI in four ways. They include providing AI agents, further automating and optimizing advertising tools and pricing for ads, improving search capabilities and the ability to recommend content, and integrating generative AI into hardware products.\n\nApple Inc. (AAPL) has a rich ecosystem of apps that makes its products sticky, meaning customers tend to remain loyal to the brand. It's also working on its own version of AI called Apple Intelligence, which boasts privacy and data-safety advantages. However, the stock has taken a hit due to the looming threat of tariffs, as investors try to digest the possible impacts to its supply chain.\n\nMeta Platforms Inc. (META) is largely dependent on ad revenue, and any advancements to its AI capabilities are expected to help improve its ad-targeting tools. The social-networking giant is also building out its large language model, which competes with the likes of Google's Gemini and OpenAI's ChatGPT. On this front, investors are watching for how the company will be able to monetize its efforts. Wedbush analysts believe that Meta can spend big on AI without cause for investor concern, because it is growing its expenses more slowly this year.\n\nCybersecurity\n\nThese companies are leaders in the cybersecurity space, and investing in their services will be critical for companies that want to protect their data. Wedbush estimates that cybercrime will cost firms $23 trillion by 2027, a sharp increase from $10.5 trillion in 2025.\n\nPalo Alto Networks Inc. (PANW) is well positioned to be a beneficiary of the growing demand for cybersecurity. Wedbush analysts believe that its move to combine its services into a single platform is a good business decision that will help it gain market share.\n\nSoftware\n\nSoftware is the bridge between AI and the ability to put it to good use by people and companies. Stocks within this sector are expected to be big beneficiaries as they find new ways to deploy AI for solutions.\n\nPalantir Technologies Inc. (PLTR) combines big data with AI to supply governments and companies with software that can optimize their internal processes. However, the stock recently changed hands near $117, above the consensus price target of about $100, following a strong April rally that was fueled by investor optimism over its future.\n\nWhen it comes to customer-relations management (CRM) platforms, Salesforce Inc. (CRM) is a favorite of Wedbush. Analysts at the firm are optimistic over its Agentforce platform, which allows enterprise customers to build out autonomous agents.\n\nWedbush analysts also refer to International Business Machines Corp. (IBM) as one of their \"top software names,\" as the company continues to spend on AI to benefit from productivity growth.\n\nAutonomous and robotics\n\nRobots and autonomous-driving vehicles were once the thing of movies - but they're expected to become a reality as AI integrates with machines.\n\nTesla Inc. (TSLA) is a key player in the autonomous space. The company has captivated investor imaginations when it comes to its development of robots like Optimus and self-driving cars. However, the company's biggest opportunities are still in what feels like a distant future. For 2025, Tesla is expected to face a slowdown in sales for its core EV business.\n\n-Laila Maidan\n\nThis content was created by MarketWatch, which is operated by Dow Jones & Co. MarketWatch is published independently from Dow Jones Newswires and The Wall Street Journal.",
+        "source": {
+          "uri": "morningstar.com",
+          "dataType": "news",
+          "title": "Morningstar"
+        },
+        "authors": [],
+        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "eventUri": "eng-10596387",
+        "sentiment": 0.1843137254901961,
+        "wgt": 484579277,
+        "relevance": 1
+      },
+      {
+        "uri": "8672462309",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "13:01:50",
+        "dateTime": "2025-05-10T13:01:50Z",
+        "dateTimePub": "2025-05-10T13:00:48Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://finance.yahoo.com/news/1-simple-reason-alphabet-worth-113000013.html?guccounter=1&guce_referrer=aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9yc3MvdG9wc3Rvcmllcw&guce_referrer_sig=AQAAAGsC3Q9X13t3zXUVIz1-1ibtK_A7ms8TaIYIL52-a677OrOdguH0UauZkihRDz5BFrYKJxdAYkmGI4pblR2Rr2IK5h7B2VxzXCmdFSJNnbkzYFuNHKj62dwCZDw8o7Zl8xFkFS8UZQDQoFG0W099H4fDBAfZvBWCFCjj11baD3Ve",
+        "title": "1 Simple Reason That Alphabet Should Be Worth More Than Apple or Microsoft",
+        "body": "Recently, Apple (NASDAQ: AAPL) lost its title as the world's largest company to Microsoft (NASDAQ: MSFT). However, there's another business lurking behind these two that could feasibly be worth more than either: Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL). It's one of the world's most profitable companies, and produces an unreal amount of earnings. However, it doesn't have the premium valuation that those two do.\n\nSo, if the market decided to snap its fingers and value these companies at the same level tomorrow, Alphabet could be the world's most valuable company. But is there a good reason for the pessimism?\n\nIf you look at the valuations, Alphabet is clearly valued much lower than its big tech peers.\n\nThis is despite generating far more net income over the past year.\n\nThere are a few factors at play for Alphabet's cheap valuation. First, its business is primarily advertising. In the first quarter, $61.6 billion of its $80.5 billion in revenue came from advertising-related sources. The market views this as a potential liability, as advertising budgets tend to get cut during an economic downturn.\n\nConsidering that the U.S. economy may be on the doorstep of one, the market is taking no chances and is not a rabid buyer of the stock. Even during an economic boom, there's still that sense of danger in the back of investors' minds that the good times don't last forever, which is why Alphabet rarely has a huge premium attached to its stock.\n\nStill, Alphabet's situation is hardly different from that of Apple, as Apple relies on sales of consumer electronics. Its devices aren't the cheapest around, and an economic downturn could push consumers to cheaper alternatives or cause them to delay purchases. As a result, Apple is just as vulnerable to a downturn as Alphabet, so its premium doesn't make a ton of sense, at least from that standpoint.\n\nMicrosoft has a slightly stronger business model, especially with its heavy reliance on cloud computing and business software. While it may see its growth slow down, it's unlikely to lose many sales, unlike Alphabet and Apple. So, Microsoft likely deserves a more premium valuation than these two. But double Alphabet's valuation seems a bit absurd.",
+        "source": {
+          "uri": "finance.yahoo.com",
+          "dataType": "news",
+          "title": "Yahoo! Finance"
+        },
+        "authors": [],
+        "image": "https://s.yimg.com/ny/api/res/1.2/GidvtU6GUiOlWZn6wh4p4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/motleyfool.com/8438a58fe7dabff2d785290b07ed3cce",
+        "eventUri": null,
+        "sentiment": 0.192156862745098,
+        "wgt": 484578110,
+        "relevance": 1
+      },
+      {
+        "uri": "8672440458",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "12:39:15",
+        "dateTime": "2025-05-10T12:39:15Z",
+        "dateTimePub": "2025-05-10T12:30:00Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://seekingalpha.com/article/4783152-invest-in-6-funds-for-6-percent-income-with-swan-like-features",
+        "title": "Invest In 6 Funds For 6% Income With SWAN-Like Features",
+        "body": "Analyst's Disclosure: I/we have a beneficial long position in the shares of ABT, ABBV, CI, JNJ, PFE, NVS, NVO, AZN, UNH, CL, CLX, UL, NSRGY, PG, TSN, ADM, BTI, MO, PM, KO, PEP, EXC, D, DEA, DEO, ENB, MCD, BAC, PRU, UPS, WMT, WBA, CVS, LOW, AAPL, IBM, CSCO, MSFT, INTC, T, VZ, CVX, XOM, VLO, ABB, ITW, MMM, LMT, LYB, RIO, O, NNN, WPC, ARCC, ARDC, AWF, CII, CHI, DNP, PEO, USA, UTF, UTG, RFI, RNP, RQI, TLT either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nDisclaimer: The information presented in this article is for informational purposes only and in no way should be construed as financial advice or recommendation to buy or sell any stock. The author is not a financial advisor. Please always do further research and do your own due diligence before making any investments. Every effort has been made to present the data/information accurately; however, the author does not claim 100% accuracy. The stock portfolios presented here are model portfolios for demonstration purposes. For the complete list of our LONG positions, please see our profile on Seeking Alpha.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+        "source": {
+          "uri": "seekingalpha.com",
+          "dataType": "news",
+          "title": "Seeking Alpha"
+        },
+        "authors": [],
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179127549/image_1179127549.jpg?io=getty-c-w1536",
+        "eventUri": null,
+        "sentiment": 0.09019607843137245,
+        "wgt": 484576755,
+        "relevance": 1
+      },
+      {
+        "uri": "8672433196",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2025-05-10",
+        "time": "12:31:48",
+        "dateTime": "2025-05-10T12:31:48Z",
+        "dateTimePub": "2025-05-10T12:31:24Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://finance.yahoo.com/news/trump-is-hailing-2-trillion-in-new-company-investments-most-of-it-comes-from-big-tech-123034731.html",
+        "title": "Trump is hailing $2 trillion in new company investments. Most of it comes from Big Tech.",
+        "body": "President Trump and his team like to tout $2 trillion in new company investments made since Inauguration Day. They argue it illustrates a broad economic renaissance and shows how tariffs can be used as an incentive to attract more commitments.\n\nNearly all of the big-dollar investments thus far have two things in common, according to a Yahoo Finance analysis of the 60-plus projects. They are clustered in the world of Big Tech and largely come from sectors where Trump's final tariff plans are most uncertain.\n\nThe data shows an outsized reliance on tech projects, with commitments from semiconductor companies, those building \"AI infrastructure,\" and a single promise from Apple (AAPL) making up nearly 85% of the total money promised so far.\n\nHealthcare and new pharmaceutical manufacturing make up most of the remainder (about 11%), with a range of other commitments, from new energy projects to food companies, comprising the remaining 4.2% of the total, according to the Yahoo Finance tallies.\n\nA running tally of these projects is on the White House website. The president brings them up regularly and often uses the commitments to buttress his case for tariffs.\n\n\"Intelligently used tariffs and various other forms of incentives [have led to investments that are] really amazing,\" Trump told dozens of CEOs he recently hosted at the White House.\n\nAnother $500 billion pledge from semiconductor-dependent Apple brings the tally of those pledges alone to well over half of all the money promised.\n\nWhat's notable is that these four companies have perhaps the least clarity of what Trump's tariff agenda will mean for their business.\n\nTrump has made direct promises of semiconductor tariffs but has yet to announce them.\n\nIn the meantime, he recently offered a major tariff concession in April that excluded Apple from his 145% tariffs on goods from China because of these still-to-be-announced plans for semiconductor duties.\n\nThe dynamic is similar in the area of healthcare and pharmaceuticals.\n\nCompanies ranging from Abbott Laboratories (ABT) to Roche (ROG.SW) are putting up money even as those sectors are another major piece of Trump's trade agenda that has yet to be announced, though Trump and his team also promise new tariffs are coming there.",
+        "source": {
+          "uri": "finance.yahoo.com",
+          "dataType": "news",
+          "title": "Yahoo! Finance"
+        },
+        "authors": [],
+        "image": "https://s.yimg.com/ny/api/res/1.2/mm3MMsjyYIfl1pADvTzBhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/49675500-2cef-11f0-bcff-c7675f50827c",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 484576308,
+        "relevance": 1
+      },
+      {
+        "uri": "8672432482",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2025-05-10",
+        "time": "12:31:11",
+        "dateTime": "2025-05-10T12:31:11Z",
+        "dateTimePub": "2025-05-10T12:30:34Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://ca.finance.yahoo.com/news/trump-is-hailing-2-trillion-in-new-company-investments-most-of-it-comes-from-big-tech-123034731.html",
+        "title": "Trump is hailing $2 trillion in new company investments. Most of it comes from Big Tech.",
+        "body": "President Trump and his team like to tout $2 trillion in new company investments made since Inauguration Day. They argue it illustrates a broad economic renaissance and shows how tariffs can be used as an incentive to attract more commitments.\n\nNearly all of the big-dollar investments thus far have two things in common, according to a Yahoo Finance analysis of the 60-plus projects. They are clustered in the world of Big Tech and largely come from sectors where Trump's final tariff plans are most uncertain.\n\nThe data shows an outsized reliance on tech projects, with commitments from semiconductor companies, those building \"AI infrastructure,\" and a single promise from Apple (AAPL) making up nearly 85% of the total money promised so far.\n\nHealthcare and new pharmaceutical manufacturing make up most of the remainder (about 11%), with a range of other commitments, from new energy projects to food companies, comprising the remaining 4.2% of the total, according to the Yahoo Finance tallies.\n\nA running tally of these projects is on the White House website. The president brings them up regularly and often uses the commitments to buttress his case for tariffs.\n\n\"Intelligently used tariffs and various other forms of incentives [have led to investments that are] really amazing,\" Trump told dozens of CEOs he recently hosted at the White House.\n\nAnother $500 billion pledge from semiconductor-dependent Apple brings the tally of those pledges alone to well over half of all the money promised.\n\nWhat's notable is that these four companies have perhaps the least clarity of what Trump's tariff agenda will mean for their business.\n\nTrump has made direct promises of semiconductor tariffs but has yet to announce them.\n\nIn the meantime, he recently offered a major tariff concession in April that excluded Apple from his 145% tariffs on goods from China because of these still-to-be-announced plans for semiconductor duties.\n\nThe dynamic is similar in the area of healthcare and pharmaceuticals.\n\nCompanies ranging from Abbott Laboratories (ABT) to Roche (ROG.SW) are putting up money even as those sectors are another major piece of Trump's trade agenda that has yet to be announced, though Trump and his team also promise new tariffs are coming there.",
+        "source": {
+          "uri": "ca.finance.yahoo.com",
+          "dataType": "news",
+          "title": "Yahoo! Finance"
+        },
+        "authors": [],
+        "image": "https://s.yimg.com/ny/api/res/1.2/mm3MMsjyYIfl1pADvTzBhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/49675500-2cef-11f0-bcff-c7675f50827c",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 484576271,
+        "relevance": 1
+      }
+    ],
+    "totalResults": 5446,
+    "page": 1,
+    "count": 5,
+    "pages": 1090
+  }
+}
